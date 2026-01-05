@@ -1,0 +1,134 @@
+﻿Subject,Predicate,Object,Label
+Gyeongseong_Court,rdf:type,ModernArchitecture,Building
+Gyeongseong_Court,kmua:relatedTo,경성재판소 신축공사 개요,Entity
+Gyeongseong_Court,cidoc:hasParticipant,강도청(江島清),Actor
+Gyeongseong_Court,kmua:isLocatedIn,"정동 고지대, 옛 총독부 분실 터",Entity
+Gyeongseong_Court,bot:hasStorey,지하층,Space
+Gyeongseong_Court,bot:hasStorey,1층,Space
+Gyeongseong_Court,bot:hasStorey,3층 건물,Space
+Gyeongseong_Court,bot:hasStorey,지하층,Space
+Gyeongseong_Court,kmua:relatedTo,57척 6촌,Entity
+Gyeongseong_Court,kmua:relatedTo,636평 6홉 6작,Entity
+Gyeongseong_Court,bot:hasStorey,지하층,Space
+Gyeongseong_Court,kmua:relatedTo,175평 8홉,Entity
+Gyeongseong_Court,bot:hasStorey,1층,Space
+Gyeongseong_Court,kmua:relatedTo,632평 6홉 6작,Entity
+Gyeongseong_Court,bot:hasStorey,2층,Space
+Gyeongseong_Court,kmua:relatedTo,605평 1홉 6작,Entity
+Gyeongseong_Court,bot:hasStorey,3층,Space
+Gyeongseong_Court,kmua:relatedTo,566평 7홉 6작,Entity
+Gyeongseong_Court,bot:hasStorey,옥상층,Space
+Gyeongseong_Court,kmua:relatedTo,5평 9작,Entity
+Gyeongseong_Court,kmua:relatedTo,"1,985평 4홉 7작",Entity
+Gyeongseong_Court,bot:hasStorey,지하층,Space
+Gyeongseong_Court,bot:containsZone,"집행관[執達吏]대기소[詰所], 공중 대기실[公衆控室], 등기계(登記係), 탕비실, 표구사실[經師室], 소사실, 목욕실, 화장실, 매점, 창고",Space
+Gyeongseong_Court,bot:hasStorey,1층,Space
+Gyeongseong_Court,bot:containsZone,"차대, 현관, 접수처, 호적계, 변호사실, 집행관실, 회계계 및 공탁국(供託局), 전화교환실, 변소, 세면실[手洗室], 기록 열람 및 등사실, 창고, 숙직실",Space
+Gyeongseong_Court,bot:containsZone,"민형사대법정 각 1실, 중법정 각 1실, 소법정 각 1실, 합의실 각 1실, 예심정 3실, 소년재판실",Space
+Gyeongseong_Court,bot:hasStorey,2층,Space
+Gyeongseong_Court,bot:containsZone,"도서실, 일반 응접실, 급사실, 변소, 세면실, 소회의실 겸 식당",Space
+Gyeongseong_Court,bot:containsZone,"원장실, 검사정실(檢事正室), 응접실, 판사실 2실, 검사실, 서기과, 검사정 5실, 검사국, 검사분실",Space
+Gyeongseong_Court,bot:containsZone,"대법정 2실, 합의실 2실",Space
+Gyeongseong_Court,bot:hasStorey,3층,Space
+Gyeongseong_Court,bot:containsZone,"대회의실, 어진영봉안소(御真影奉安所), 일반 응접실, 변소, 세면실",Space
+Gyeongseong_Court,bot:containsZone,"서기과, 공판 준비실, 판사실, 검사실, 검사국, 검사정, 검사장실, 원장실, 응접실, 판사실",Space
+Gyeongseong_Court,bot:containsZone,"서기과, 원장실, 동 응접실, 검사장실, 동 응접실, 검사실, 검사국, 판사실 2실, 대법정, 합의실",Space
+Gyeongseong_Court,bot:hasStorey,옥상층,Space
+Gyeongseong_Court,kmua:relatedTo,탱크실,Facility
+Gyeongseong_Court,kmua:relatedTo,철근콘크리트,Entity
+Gyeongseong_Court,kmua:relatedTo,철근콘크리트 구조,Entity
+Gyeongseong_Court,kmua:relatedTo,벽돌조 커튼월,Entity
+Gyeongseong_Court,kmua:hasWallFinish,화강석(花崗石) 붙임,Material
+Gyeongseong_Court,kmua:hasWallFinish,화강석[グラニット] 붙임,Material
+Gyeongseong_Court,kmua:hasWallFinish,타일 붙임,Material
+Gyeongseong_Court,kmua:hasWallFinish,흰 회반죽 마감,Material
+Gyeongseong_Court,kmua:hasWallFinish,페인트칠,Material
+Gyeongseong_Court,kmua:hasFloorFinish,화강석 붙임,Material
+Gyeongseong_Court,kmua:hasFloorFinish,대리석 붙임,Material
+Gyeongseong_Court,kmua:hasFloorFinish,모자이크 타일 붙임,Material
+Gyeongseong_Court,kmua:hasFloorFinish,타일 마감,Material
+Gyeongseong_Court,kmua:hasFloorFinish,인조석 물갈기[研出] 마감,Material
+Gyeongseong_Court,kmua:hasFloorFinish,다다미 깔기,Material
+Gyeongseong_Court,kmua:hasFloorFinish,리놀륨 깔기,Material
+Gyeongseong_Court,kmua:hasFloorFinish,모르타르 도장 마감,Material
+Gyeongseong_Court,kmua:relatedTo,철근콘크리트 슬래브,Entity
+Gyeongseong_Court,kmua:relatedTo,아스팔트 펠트 말소이드(MALTHOID),Material
+Gyeongseong_Court,kmua:relatedTo,자갈,Material
+Gyeongseong_Court,kmua:hasFinishDetail,타일,Material
+Gyeongseong_Court,kmua:hasFloorFinish,대리석,Material
+Gyeongseong_Court,kmua:hasFloorFinish,의대리석(擬大理石) 도장,Material
+Gyeongseong_Court,kmua:relatedTo,티크재에 바니시 도장,Material
+Gyeongseong_Court,kmua:hasFloorFinish,대리석 붙임,Material
+Gyeongseong_Court,kmua:hasFloorFinish,모자이크 타일 붙임,Material
+Gyeongseong_Court,kmua:hasFloorFinish,대리석 붙임,Material
+Gyeongseong_Court,kmua:hasFloorFinish,인조석 물갈기,Material
+Gyeongseong_Court,kmua:hasFloorFinish,징두리널 붙임 후 바니시 도장,Material
+Gyeongseong_Court,kmua:hasFloorFinish,벽지 붙임,Material
+Gyeongseong_Court,kmua:relatedTo,새 무늬가 있는 청색 단자,Material
+Gyeongseong_Court,kmua:hasFloorFinish,무늬가 있는 융단 깔기,Material
+Gyeongseong_Court,kmua:hasFloorFinish,징두리널 붙임 후 바니시 도장,Material
+Gyeongseong_Court,kmua:hasFloorFinish,무늬가 있는 벽지 붙임,Material
+Gyeongseong_Court,kmua:relatedTo,로즈색 무늬 벨벳,Material
+Gyeongseong_Court,kmua:relatedTo,어두운 청록색[納戶茶色]의 무늬 있는 풍통(風通) 단자(緞子),Material
+Gyeongseong_Court,kmua:relatedTo,색무늬 단자(緞子),Material
+Gyeongseong_Court,kmua:hasFloorFinish,쪽모이 세공,Material
+Gyeongseong_Court,kmua:hasFloorFinish,양탄자[壇通],Material
+Gyeongseong_Court,kmua:hasFloorFinish,징두리널 붙임 후 바니시 도장,Material
+Gyeongseong_Court,kmua:relatedTo,청록색[納戶色] 무늬 벨벳,Material
+Gyeongseong_Court,kmua:relatedTo,열지[裂布],Material
+Gyeongseong_Court,kmua:relatedTo,흰색 우이중(羽二重) 막,Material
+Gyeongseong_Court,kmua:relatedTo,벽돌벽,Entity
+Gyeongseong_Court,kmua:relatedTo,대창금고(大倉金庫) 문,Facility
+Gyeongseong_Court,kmua:hasFloorFinish,타일로 붙임,Material
+Gyeongseong_Court,kmua:relatedTo,대현관,Entity
+Gyeongseong_Court,kmua:relatedTo,출입구,Entity
+Gyeongseong_Court,kmua:relatedTo,계단,Entity
+Gyeongseong_Court,kmua:relatedTo,내화 구조,Facility
+Gyeongseong_Court,kmua:relatedTo,수도 소화전,Facility
+Gyeongseong_Court,brick:providesWaterTo,수세식,Facility
+Gyeongseong_Court,kmua:relatedTo,철근콘크리트제 오수 정화조,Facility
+Gyeongseong_Court,kmua:relatedTo,세균 자연 정화법,Facility
+Gyeongseong_Court,kmua:relatedTo,수돗물,Facility
+Gyeongseong_Court,kmua:relatedTo,기관실 측 우물,Facility
+Gyeongseong_Court,brick:feedsHeatTo,중력식 저압 증기 난방 장치,Facility
+Gyeongseong_Court,brick:feedsHeatTo,이주식(二柱式) 방열기,Facility
+Gyeongseong_Court,brick:hasLighting,"샹들리에 55개, 체인 펜던트 109개, 파이프 펜던트 14개, 코드 펜던트 11개",Facility
+Gyeongseong_Court,kmua:relatedTo,"축전지 광전용, 전동 발전기 및 전화 교환기용 신호 발전기",Facility
+Gyeongseong_Court,kmua:relatedTo,독일 알게마이네 전기회사,Facility
+Gyeongseong_Court,kmua:relatedTo,"어미 시계 1개, 자시계 72개, 시보기 7개",Facility
+Gyeongseong_Court,brick:hasPoint,자동 교환 장치,Facility
+Gyeongseong_Court,kmua:relatedTo,"전령 12개, 버튼 8개, 부저 4개",Facility
+Gyeongseong_Court,kmua:hasTotalBudget,"11,957.970엔",Entity
+Gyeongseong_Court,kmua:constructedBy,서대문형무소,Actor
+Gyeongseong_Court,kmua:constructedBy,다전순삼랑(多田順三郎),Actor
+Gyeongseong_Court,kmua:hasTotalBudget,"354,900·778",Entity
+Gyeongseong_Court,kmua:constructedBy,다전순삼랑(多田順三郎),Actor
+Gyeongseong_Court,kmua:constructedBy,경성형무소,Actor
+Gyeongseong_Court,kmua:constructedBy,다전순삼랑(多田順三郎),Actor
+Gyeongseong_Court,kmua:constructedBy,다전순삼랑(多田順三郎),Actor
+Gyeongseong_Court,kmua:hasTotalBudget,"37,340.900",Entity
+Gyeongseong_Court,kmua:constructedBy,삼릉상사주식회사(三菱商事株式會社) 경성출장소,Actor
+Gyeongseong_Court,kmua:hasTotalBudget,"10,865.490",Entity
+Gyeongseong_Court,kmua:constructedBy,산전령태랑(山田鈴太郎),Actor
+Gyeongseong_Court,cidoc:hasParticipant,대창상사주식회사(大倉商事株式會社) 경성출장소,Actor
+Gyeongseong_Court,kmua:constructedBy,북중제작소(北中製作所),Actor
+Gyeongseong_Court,kmua:constructedBy,대창상사주식회사 경성출장소,Actor
+Gyeongseong_Court,kmua:constructedBy,주식회사수하상회(株式會社須賀商會) 경성출장소,Actor
+Gyeongseong_Court,kmua:constructedBy,대창상사주식회사 경성출장소,Actor
+Gyeongseong_Court,kmua:constructedBy,횡산상점(横山商店),Actor
+Gyeongseong_Court,kmua:constructedBy,경성전기회사,Actor
+Gyeongseong_Court,kmua:hasTotalBudget,474.465.949,Entity
+Gyeongseong_Court,kmua:constructedBy,다전순삼랑,Actor
+Gyeongseong_Court,kmua:constructedBy,다전순삼랑,Actor
+Gyeongseong_Court,kmua:constructedBy,횡산상점,Actor
+Gyeongseong_Court,kmua:equippedBy,고도옥(高嶋屋) 경성출장소,Actor
+Gyeongseong_Court,kmua:constructedBy,다전순삼랑,Actor
+Gyeongseong_Court,kmua:constructedBy,다전순삼랑,Actor
+Gyeongseong_Court,kmua:constructedBy,다전순삼랑,Actor
+Gyeongseong_Court,kmua:constructedBy,경성형무소,Actor
+Gyeongseong_Court,cidoc:hasParticipant,다전순삼랑,Actor
+Gyeongseong_Court,kmua:constructedBy,다전순삼랑,Actor
+Gyeongseong_Court,kmua:equippedBy,삼릉상사주식회사 경성출장소,Actor
+Gyeongseong_Court,kmua:constructedBy,북중제작소,Actor
+Gyeongseong_Court,kmua:constructedBy,다전순삼랑,Actor
+Gyeongseong_Court,kmua:hasTotalBudget,"545,445.902",Entity
