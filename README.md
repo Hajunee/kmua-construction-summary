@@ -38,23 +38,9 @@
 
 ---
 
-## 4. Directory Structure
-```text
-kmua-construction-summary/
-├── data/
-│   ├── 01_raw_xml/       # MediaWiki Export XML (Input)
-│   └── 02_graph_csv/     # Neo4j Import CSV (Output)
-└── src/
-    └── parser.py         # Wiki-to-Graph Conversion Engine
-
-5. Usage (실행 방법)
-Prerequisites
-Python 3.8+
-
-Libraries: pandas, beautifulsoup4
-
-Run Parser
-Bash
-
-python src/parser.py
-© 2025 KMUA Project.
+## 5. Usage (실행 방법)
+> Prerequisites
+> Python 3.8+
+> Libraries: pandas, beautifulsoup4
+> python src/parser.py
+> © 2025 KMUA Project.
