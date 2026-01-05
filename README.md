@@ -39,8 +39,8 @@
 ---
 
 ## 5. Usage (실행 방법)
-> Prerequisites
-> Python 3.8+
-> Libraries: pandas, beautifulsoup4
-> python src/parser.py
-> © 2025 KMUA Project.
+- Prerequisites
+- Python 3.8+
+- Libraries: pandas, beautifulsoup4
+- python src/parser.py
+- © 2025 KMUA Project.
