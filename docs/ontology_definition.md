@@ -1,46 +1,31 @@
-# KMUA Ontology Definition (v2.3)
+# KMUA Ontology Definition (v3.0)
 > **Data Model & Schema Specification**
 
-본 문서는 KMUA 프로젝트의 데이터 구조를 정의한다. 텍스트 마이닝을 통해 도출된 6대 클러스터를 기반으로 클래스를 설계하였으며, 국제 표준(ISO/W3C)을 참조하여 호환성을 확보했다.
+본 문서는 KMUA 프로젝트의 데이터 구조를 정의한다. 2026년 1월 6일 회의 결과를 바탕으로, 분석의 효율성과 명확성을 위해 7대 핵심 클래스와 권장 속성을 아래와 같이 설정하였다.
 
 ## 1. Schema Diagram
 ![KMUA Data Schema](kmua_ontology_schema.png)
+*(참고: 스키마 다이어그램 이미지는 추후 v3.0에 맞게 업데이트가 필요함)*
 
 ---
 
-## 2. Class & Predicate Table (클래스 및 관계 정의)
+## 2. Class & Attribute Table (클래스 및 속성 정의)
 
-데이터는 크게 **Archive(문헌/관리)**, **Core(구조/물리)**, **Detail(상세/기술)** 3가지 레이어로 구분된다.
+데이터는 7가지 주요 클래스(Class)로 구분되며, 각 클래스는 분석에 필요한 필수 속성(Attributes)을 포함한다.
 
-| Layer | Cluster (Class) | Ontology Ref. | Key Predicates (Relations) | Description |
-| :--- | :--- | :--- | :--- | :--- |
-| **ARCHIVE** | **kmua:ProjectOverview**<br>(기본 개요) | IFC Project | `kmua:hasName` (건물명)<br>`kmua:hasSiteArea` (대지면적)<br>`kmua:hasTotalArea` (연면적) | 건축물의 식별 정보 및 물리적 규모 |
-| **ARCHIVE** | **kmua:ManagementData**<br>(공사 관리) | CIDOC CRM (E5) | `kmua:hasParticipant` (참여자)<br>`kmua:hasTimeSpan` (공사기간)<br>`kmua:hasTotalBudget` (공사비) | 설계, 시공, 감리 등 행위자 및 비용 정보 |
-| **CORE** | **kmua:StructuralSystem**<br>(구조 시스템) | IFC BuildingElement | `kmua:hasStructure` (주체구조)<br>`kmua:hasFoundation` (기초)<br>`kmua:hasRoofType` (지붕) | 건물을 지탱하는 물리적 골조 및 시스템 |
-| **DETAIL** | **kmua:SpatialUnit**<br>(공간 구성) | W3C BOT | `bot:hasStorey` (층)<br>`bot:containsZone` (실/구역)<br>`kmua:hasFunction` (용도) | 층별, 실별 공간의 위계 및 기능 |
-| **DETAIL** | **kmua:FinishDetail**<br>(마감 상세) | IFC Covering | `kmua:hasFloorFinish` (바닥마감)<br>`kmua:hasWallFinish` (벽마감)<br>`kmua:hasCeiling` (천장마감) | 각 공간을 구성하는 재료 및 마감 상세 |
-| **DETAIL** | **kmua:FacilitySystem**<br>(부대 설비) | Brick Schema | `brick:feedsHeatTo` (난방)<br>`brick:providesWater` (위생)<br>`brick:hasLighting` (전기) | 건물 내 기계, 전기, 위생 설비 시스템 |
-
----
-
-## 3. Semantic Rules (추론 규칙)
-* **Hierarchy Rule**: `SpatialUnit`은 `StructuralSystem`의 물리적 공간 내에 위치(`kmua:isLocatedIn`)한다.
-* **Service Rule**: `FacilitySystem`은 특정 `SpatialUnit`에 기능을 제공(`brick:serves`)한다.
-## 2. Class & Predicate Table (클래스 및 관계 정의)
-
-데이터는 크게 **Archive(문헌/관리)**, **Core(구조/물리)**, **Detail(상세/기술)** 3가지 레이어로 구분된다.
-
-| Layer | Cluster (Class) | Ontology Ref. | Key Predicates (Relations) | Description |
-| :--- | :--- | :--- | :--- | :--- |
-| **ARCHIVE** | **kmua:ProjectOverview**<br>(기본 개요) | IFC Project | `kmua:hasName` (건물명)<br>`kmua:hasSiteArea` (대지면적)<br>`kmua:hasTotalArea` (연면적) | 건축물의 식별 정보 및 물리적 규모 |
-| **ARCHIVE** | **kmua:ManagementData**<br>(공사 관리) | CIDOC CRM (E5) | `kmua:hasParticipant` (참여자)<br>`kmua:hasTimeSpan` (공사기간)<br>`kmua:hasTotalBudget` (공사비) | 설계, 시공, 감리 등 행위자 및 비용 정보 |
-| **CORE** | **kmua:StructuralSystem**<br>(구조 시스템) | IFC BuildingElement | `kmua:hasStructure` (주체구조)<br>`kmua:hasFoundation` (기초)<br>`kmua:hasRoofType` (지붕) | 건물을 지탱하는 물리적 골조 및 시스템 |
-| **DETAIL** | **kmua:SpatialUnit**<br>(공간 구성) | W3C BOT | `bot:hasStorey` (층)<br>`bot:containsZone` (실/구역)<br>`kmua:hasFunction` (용도) | 층별, 실별 공간의 위계 및 기능 |
-| **DETAIL** | **kmua:FinishDetail**<br>(마감 상세) | IFC Covering | `kmua:hasFloorFinish` (바닥마감)<br>`kmua:hasWallFinish` (벽마감)<br>`kmua:hasCeiling` (천장마감) | 각 공간을 구성하는 재료 및 마감 상세 |
-| **DETAIL** | **kmua:FacilitySystem**<br>(부대 설비) | Brick Schema | `brick:feedsHeatTo` (난방)<br>`brick:providesWater` (위생)<br>`brick:hasLighting` (전기) | 건물 내 기계, 전기, 위생 설비 시스템 |
+| Class (대상 클래스) | Recommended Attributes (권장 속성) | Description (비고) |
+| :--- | :--- | :--- |
+| **Building**<br>(건물) | `Name` (명칭: 원문/번역)<br>`TotalArea` (연면적)<br>`SiteArea` (대지면적)<br>`Floors` (층수: 지상/지하)<br>`Height` (높이)<br>`Function` (용도/기능) | 건물의 규모와 성격을 수치화하여 비교 분석 가능 |
+| **Actor**<br>(인물/기관) | `Name` (성명: 원문/번역)<br>`Nationality` (국적)<br>`Role` (직업분류: 설계/시공/건주) | 인물 간 네트워크 및 국적별 건축 활동 특징 분석 가능 |
+| **Location**<br>(위치) | `AddressOld` (당시 지명)<br>`AddressNew` (현재 지명)<br>`Coordinates` (위도/경도) | 추후 GIS(지도) 시각화 서비스와 연동 가능 |
+| **Year**<br>(연도) | `StartDate` (착공일)<br>`EndDate` (준공일)<br>*Format: YYYY-MM-DD* | 공사 기간 계산 및 시기별 건축 트렌드 분석 가능 |
+| **Structure**<br>(구조) | `Type` (구조종류: RC/목조/벽돌 등)<br>`Method` (세부공법) | 구조 기술의 발전 및 유형별 분포 분석 |
+| **Material**<br>(재료) | `Name` (명칭: 원문/번역)<br>`Origin` (산지/출처)<br>`Manufacturer` (제조사)<br>`Brand` (브랜드) | 마감재의 수급 경로 및 산업적 배경 추적 |
+| **Facility**<br>(설비) | `Name` (명칭: 원문/번역)<br>`Type` (설비종류: 난방/위생/전기)<br>`Manufacturer` (제조사)<br>`Brand` (브랜드) | 근대적 설비(난방, 승강기 등)의 도입 현황 분석 |
 
 ---
 
-## 3. Semantic Rules (추론 규칙)
-* **Hierarchy Rule**: `SpatialUnit`은 `StructuralSystem`의 물리적 공간 내에 위치(`kmua:isLocatedIn`)한다.
-* **Service Rule**: `FacilitySystem`은 특정 `SpatialUnit`에 기능을 제공(`brick:serves`)한다.
+## 3. Semantic Rules (데이터 관계 규칙)
+* **Actor Relationship**: `Actor`는 `Building`에 대해 특정 `Role`(설계, 시공 등)을 수행한다.
+* **Material/Facility Composition**: `Material`과 `Facility`는 `Building`의 물리적 구성 요소로 포함된다.
+* **Temporal Scope**: 모든 `Building` 프로젝트는 `Year`(착공~준공)의 시간적 범위를 가진다.
