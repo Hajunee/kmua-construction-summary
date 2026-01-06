@@ -38,9 +38,22 @@
 
 ---
 
-## 5. Usage (실행 방법)
-- Prerequisites
-- Python 3.8+
-- Libraries: pandas, beautifulsoup4
-- python src/parser.py
+## 4. Usage (실행 방법)
+
+### Prerequisites & Installation
+
+이 프로젝트는 Python 3.8 이상 환경에서 동작하며, 데이터 분석 및 파싱을 위해 아래 라이브러리들이 필요합니다.
+
+### Required Libraries
+* pandas: 데이터 프레임 처리 및 CSV/Excel 입출력
+* janome: 일본어 텍스트 형태소 분석
+* beautifulsoup4: 위키 데이터(XML/HTML) 파싱
+* openpyxl: 엑셀 파일(.xlsx) 입출력 지원
+
+### Installation
+터미널에서 아래 명령어를 입력하여 필수 패키지를 설치하십시오.
+
+```bash
+pip install pandas janome beautifulsoup4 openpyxl
+
 - © 2025 KMUA Project.
