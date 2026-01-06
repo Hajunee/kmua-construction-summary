@@ -55,5 +55,3 @@
 
 ```bash
 pip install pandas janome beautifulsoup4 openpyxl
-
-- © 2025 KMUA Project.
