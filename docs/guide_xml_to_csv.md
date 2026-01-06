@@ -1,7 +1,7 @@
 # Data Extraction & Conversion Guide
 > **From MediaWiki to Graph Data (CSV)**
 
-본 문서는 KMUA 위키 시스템에 구축된 데이터를 **1. 추출(Export)**하고, **2. 정제(Clean)**하여, **3. 최종 변환(Convert)**하는 전체 파이프라인을 설명합니다.
+본 문서는 KMUA 위키 시스템에 구축된 데이터를 1. 추출(Export)하고, 2. 정제(Clean)하여, 3. 최종 변환(Convert)하는 전체 파이프라인을 설명합니다.
 
 ---
 
