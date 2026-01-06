@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #  KMUA Research Questions & Scenarios
 > **Data-Driven Analysis of Modern Architecture in Colonial Korea (1920-1930s)**
 
