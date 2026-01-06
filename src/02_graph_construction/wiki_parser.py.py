@@ -1,6 +1,7 @@
 # 파일명: src/02_graph_construction/wiki_parser.py
 import os
 import pandas as pd
+import html  # <--- [추가] 이 친구가 &lt; 를 < 로 바꿔줍니다.
 from bs4 import BeautifulSoup
 
 # ==========================================
@@ -70,40 +71,22 @@ def get_predicate(ontology_tag, text_value, context_hint=""):
 # ==========================================
 def extract_text_from_xml(xml_content):
     try:
+        # 1. 전체 XML 구조를 먼저 파싱
         soup = BeautifulSoup(xml_content, "html.parser")
+        
+        # 2. <text> 태그 찾기
         text_tag = soup.find("text")
-        return text_tag.get_text() if text_tag else xml_content
+        
+        if text_tag:
+            # 3. [핵심] &lt; 등을 < 로 변환 (Unescape)
+            # get_text()만 써도 일부 되지만, html.unescape로 확실하게 처리
+            raw_text = text_tag.get_text()
+            clean_text = html.unescape(raw_text)
+            return clean_text
+        else:
+            return xml_content
     except:
         return xml_content
-
-def parse_wiki_text(doc_name, wiki_source):
-    triples = []
-    # 기본 노드 생성
-    triples.append({"Subject": doc_name, "Predicate": "rdf:type", "Object": "ModernArchitecture", "Label": "Building"})
-
-    lines = wiki_source.split('\n')
-    for line in lines:
-        line_soup = BeautifulSoup(line, "html.parser")
-        current_context = line_soup.get_text() # 현재 줄의 텍스트를 문맥으로 사용
-        
-        spans = line_soup.find_all("span")
-        for span in spans:
-            if span.has_attr("title"):
-                tag = span["title"]
-                val = span.get_text().strip()
-                
-                # 관계명 추론
-                pred = get_predicate(tag, val, context_hint=current_context)
-                
-                # 라벨(Entity Type) 결정
-                label = "Entity"
-                if "Participant" in tag: label = "Actor"
-                elif "Storey" in tag or "Space" in tag: label = "Space"
-                elif "brick" in tag: label = "Facility"
-                elif "Material" in tag or "Covering" in tag: label = "Material"
-                
-                triples.append({"Subject": doc_name, "Predicate": pred, "Object": val, "Label": label})
-    return triples
 
 # ==========================================
 # 4. 실행 (Batch Process)
