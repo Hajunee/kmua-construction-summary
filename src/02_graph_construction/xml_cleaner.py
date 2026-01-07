@@ -1,62 +1,55 @@
 # 파일명: src/02_graph_construction/xml_cleaner.py
 import os
-import html
 import re
 
-# ==========================================
-# 1. 경로 설정 (자동화)
-# ==========================================
+# 1. 설정
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 ROOT_DIR = os.path.dirname(os.path.dirname(BASE_DIR))
 
-# 입력: 위키 원본 (Raw)
+# [입력] 원본 XML이 있는 폴더 (03_raw_xml)
 INPUT_DIR = os.path.join(ROOT_DIR, 'data', '03_raw_xml')
-# 출력: 정제된 XML (Clean)
+
+# [출력] 청소된 XML을 저장할 폴더 (04_clean_xml)
 OUTPUT_DIR = os.path.join(ROOT_DIR, 'data', '04_clean_xml')
 
 if not os.path.exists(OUTPUT_DIR):
     os.makedirs(OUTPUT_DIR)
 
-# ==========================================
-# 2. 청소 로직 (Unescape)
-# ==========================================
-def clean_xml_content(content):
-    # 1. HTML 엔티티 (&lt; -> <) 변환
-    # 두 번 해주는 이유: 가끔 &amp;lt; 처럼 이중으로 꼬인 경우가 있어서 안전하게 처리
-    cleaned = html.unescape(content)
-    cleaned = html.unescape(cleaned) 
-    return cleaned
-
-def run_cleaner():
+def clean_xml_files():
     if not os.path.exists(INPUT_DIR):
-        print(f"❌ Error: 입력 폴더가 없습니다 -> {INPUT_DIR}")
+        print(f"[오류] 입력 폴더를 찾을 수 없습니다: {INPUT_DIR}")
         return
 
-    file_list = [f for f in os.listdir(INPUT_DIR) if f.endswith('.xml')]
-    print(f"🧹 XML 청소 시작! 총 {len(file_list)}개 파일 처리 중...")
-
-    for filename in file_list:
+    xml_files = [f for f in os.listdir(INPUT_DIR) if f.endswith('.xml')]
+    print(f"[시작] '{INPUT_DIR}' 폴더에서 {len(xml_files)}개의 XML 파일 발견")
+    
+    for idx, filename in enumerate(xml_files):
         input_path = os.path.join(INPUT_DIR, filename)
         output_path = os.path.join(OUTPUT_DIR, filename)
-
+        
         try:
-            # 파일 읽기
-            with open(input_path, 'r', encoding='utf-8') as f:
-                raw_content = f.read()
+            # 1. 파일 읽기 (인코딩 에러 무시)
+            with open(input_path, 'r', encoding='utf-8', errors='replace') as f:
+                content = f.read()
 
-            # 변환 수행
-            clean_content = clean_xml_content(raw_content)
+            # 2. 데이터 정제
+            # 2-1. XML 금지 제어 문자 제거
+            content = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f]', '', content)
 
-            # 파일 쓰기
+            # 2-2. & 기호 문법 오류 수정
+            # & 뒤에 amp;, lt; 등이 없으면 단순 텍스트 &로 간주하고 &amp;로 치환
+            content = re.sub(r'&(?!(?:amp|lt|gt|apos|quot|#\d+);)', '&amp;', content)
+
+            # 3. 저장
             with open(output_path, 'w', encoding='utf-8') as f:
-                f.write(clean_content)
-                
-            print(f"  ✨ 변환 완료: {filename}")
+                f.write(content)
+            
+            print(f" - [완료] {filename} -> 04_clean_xml 폴더에 저장됨")
 
         except Exception as e:
-            print(f"  ❌ 실패 ({filename}): {e}")
+            print(f" - [실패] {filename}: {e}")
 
-    print(f"\n🎉 모든 작업 완료! 결과는 '{OUTPUT_DIR}' 에서 확인하세요.")
+    print("\n[전체 완료] 모든 파일 청소 끝. 이제 wiki_xml_to_csv.py를 실행하세요.")
 
 if __name__ == "__main__":
-    run_cleaner()
+    clean_xml_files()

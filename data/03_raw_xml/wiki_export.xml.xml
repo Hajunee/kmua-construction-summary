@@ -1,0 +1,746 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="ko">
+  <siteinfo>
+    <sitename>한국 근대 도시건축 데이터베이스</sitename>
+    <dbname>LAHC_db</dbname>
+    <base>http://114.202.247.122/wiki/index.php/%EB%8C%80%EB%AC%B8</base>
+    <generator>MediaWiki 1.44.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">미디어</namespace>
+      <namespace key="-1" case="first-letter">특수</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">토론</namespace>
+      <namespace key="2" case="first-letter">사용자</namespace>
+      <namespace key="3" case="first-letter">사용자토론</namespace>
+      <namespace key="4" case="first-letter">한국 근대 도시건축 데이터베이스</namespace>
+      <namespace key="5" case="first-letter">한국 근대 도시건축 데이터베이스토론</namespace>
+      <namespace key="6" case="first-letter">파일</namespace>
+      <namespace key="7" case="first-letter">파일토론</namespace>
+      <namespace key="8" case="first-letter">미디어위키</namespace>
+      <namespace key="9" case="first-letter">미디어위키토론</namespace>
+      <namespace key="10" case="first-letter">틀</namespace>
+      <namespace key="11" case="first-letter">틀토론</namespace>
+      <namespace key="12" case="first-letter">도움말</namespace>
+      <namespace key="13" case="first-letter">도움말토론</namespace>
+      <namespace key="14" case="first-letter">분류</namespace>
+      <namespace key="15" case="first-letter">분류토론</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>6집 6호 동아일보사사옥</title>
+    <ns>0</ns>
+    <id>35</id>
+    <revision>
+      <id>125</id>
+      <parentid>124</parentid>
+      <timestamp>2026-01-07T00:49:06Z</timestamp>
+      <contributor>
+        <username>Hajunlee</username>
+        <id>3</id>
+      </contributor>
+      <origin>125</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8054" sha1="1c1f4qf3e1ypt51dmq8owl10tiekewo" xml:space="preserve">__NOTOC__
+{| class="wikitable" style="width:100%; text-align:center; font-size:90%; margin-bottom:15px;"
+! colspan="7" style="background:#f0f0f0;" | 데이터 태깅 범례 (Legend)
+|-
+| &lt;span style="background:#eceff1; padding:2px 5px; border-radius:3px;"&gt;건물 정보&lt;/span&gt;
+| &lt;span style="background:#b0bec5; padding:2px 5px; border-radius:3px;"&gt;공사비&lt;/span&gt;
+| &lt;span style="background:#bbdefb; padding:2px 5px; border-radius:3px;"&gt;인물/회사&lt;/span&gt;
+| &lt;span style="background:#dcedc8; padding:2px 5px; border-radius:3px;"&gt;재료&lt;/span&gt;
+| &lt;span style="background:#e1bee7; padding:2px 5px; border-radius:3px;"&gt;구조&lt;/span&gt;
+| &lt;span style="background:#ffccbc; padding:2px 5px; border-radius:3px;"&gt;설비&lt;/span&gt;
+| &lt;span style="background:#fff9c4; padding:2px 5px; border-radius:3px;"&gt;위치/시기&lt;/span&gt;
+|}
+
+{| class="wikitable" style="float:right; width:300px;"
+! colspan="2" | 동아일보사 사옥
+|-
+| colspan="2" | (사진)
+|-
+! 내용
+| AI Manual Tagging
+|}
+
+동아일보사 사옥 건축 개요 위치 &lt;span title="Location" style="background:#fff9c4;"&gt;경성부 광화문통(光化門通)&lt;/span&gt; 총 연면적 &lt;span title="TotalArea" style="background:#eceff1;"&gt;473평 1홉&lt;/span&gt; 내역 지하실 &lt;span title="TotalArea" style="background:#eceff1;"&gt;40평&lt;/span&gt; 1층 &lt;span title="TotalArea" style="background:#eceff1;"&gt;140평&lt;/span&gt; 2층 &lt;span title="TotalArea" style="background:#eceff1;"&gt;141평 4홉&lt;/span&gt; 3층 &lt;span title="TotalArea" style="background:#eceff1;"&gt;141평 4홉&lt;/span&gt; 옥상 계단실 &lt;span title="TotalArea" style="background:#eceff1;"&gt;3평 7홉&lt;/span&gt; 창고 &lt;span title="TotalArea" style="background:#eceff1;"&gt;6평 6홉&lt;/span&gt; 기공 &lt;span title="StartDate" style="background:#fff9c4;"&gt;1925년 9월 27일&lt;/span&gt; 준공 &lt;span title="EndDate" style="background:#fff9c4;"&gt;1927년 12월 말일&lt;/span&gt; 건축 양식 근세식 층수 지하실 포함 &lt;span title="Floors" style="background:#eceff1;"&gt;4층&lt;/span&gt;, 옥상에 계단실을 설치하여 운동장으로 삼는다 건물 높이 지반선으로부터 중앙 최고부까지 &lt;span title="Height" style="background:#eceff1;"&gt;48척 1촌 5분&lt;/span&gt;으로 한다 각층 실들의 배치 [지하실] &lt;span title="Facility" style="background:#ffccbc;"&gt;난방기관실&lt;/span&gt;, 숙직실, 소사실(小使室), 탕비소, 창고, 계단실 [1층] 정면 현관, 홀[廣間], 응접실, 발송부, 영업국, 인쇄공장, 측면 현관, 화장실, 계단실 [2층] 사장실, 응접실, 편집국, 문선정판실(文選整版室), &lt;span title="Facility" style="background:#ffccbc;"&gt;전화교환실&lt;/span&gt;, 변소, 계단실 [3층] 구락부, 조사부, 사진부, 주조실(鑄造室), 회의실, 변소, 계단실 [옥상] 계단실, 창고, 운동장 구조의 대요 기둥, 도리, 보, 바닥, 지붕 등은 &lt;span title="Structure" style="background:#e1bee7;"&gt;철근콘크리트&lt;/span&gt;, 외벽 &lt;span title="Material" style="background:#dcedc8;"&gt;벽돌&lt;/span&gt; 쌓기, 칸막이벽 &lt;span title="Material" style="background:#dcedc8;"&gt;벽돌&lt;/span&gt; 및 &lt;span title="Structure" style="background:#e1bee7;"&gt;콘크리트철근 블록&lt;/span&gt; 쌓기 기초 항타 지형 벽체 바깥면 &lt;span title="Material" style="background:#dcedc8;"&gt;석재&lt;/span&gt; 및 &lt;span title="Material" style="background:#dcedc8;"&gt;화장 타일&lt;/span&gt; 붙임 일부 &lt;span title="Material" style="background:#dcedc8;"&gt;인조석&lt;/span&gt; 도장으로 하고, 파라펫 상부 코니스[蛇腹] 조각 &lt;span title="Material" style="background:#dcedc8;"&gt;화강암&lt;/span&gt;, 그리고 벽 주요부 조각은 &lt;span title="Material" style="background:#dcedc8;"&gt;테라코타&lt;/span&gt;를 사용하여 외벽 장식으로 하고, 내부 사장실, 사장 응접실, 1층 응접실 등은 &lt;span title="Material" style="background:#dcedc8;"&gt;티크&lt;/span&gt; &lt;span title="Material" style="background:#dcedc8;"&gt;벚나무재&lt;/span&gt; 징두리널, 현관은 &lt;span title="Material" style="background:#dcedc8;"&gt;대리석&lt;/span&gt; 징두리널, 현관 및 화장실 허리벽은 &lt;span title="Material" style="background:#dcedc8;"&gt;타일&lt;/span&gt; 붙임, 영업국 거래대[取引臺] 및 현관 석단(石段)은 &lt;span title="Material" style="background:#dcedc8;"&gt;대리석&lt;/span&gt;으로 하고, 벽은 사장실 응접실, 1층 응접실 등 무늬 벽지 바름, 그 외는 &lt;span title="Material" style="background:#dcedc8;"&gt;회반죽&lt;/span&gt;칠, 각종 조작재[雜作材] 바니시 및 페인트 도장 마감  
+
+건축 개요(2) 바닥 마감 현관, 홀[廣間], 변소는 &lt;span title="Material" style="background:#dcedc8;"&gt;타일&lt;/span&gt; 깔기로 하고, 일반의 것은 &lt;span title="Material" style="background:#dcedc8;"&gt;모르타르&lt;/span&gt;칠을 한 후 사장실, 응접실은 융단 깔기, 1층 응접실은 인레이드 &lt;span title="Material" style="background:#dcedc8;"&gt;리놀륨&lt;/span&gt; 깔기, 계단실 및 그 외 &lt;span title="Material" style="background:#dcedc8;"&gt;인조석&lt;/span&gt; 물갈기, 그 외 일반은 &lt;span title="Material" style="background:#dcedc8;"&gt;리놀륨&lt;/span&gt; 깔기 천장 흰 &lt;span title="Material" style="background:#dcedc8;"&gt;회반죽&lt;/span&gt;칠, 일부 &lt;span title="Material" style="background:#dcedc8;"&gt;석고&lt;/span&gt; 조각 무늬 부착 마감 각층 창문 입구 현관은 &lt;span title="Supplier" style="background:#bbdefb;"&gt;건철회사(建鐵會社)&lt;/span&gt;제 롤링셔터 설치, 각종 틀[枠], 창호틀[建具額]은 &lt;span title="Material" style="background:#dcedc8;"&gt;티크&lt;/span&gt;, 그 외 &lt;span title="Material" style="background:#dcedc8;"&gt;목재&lt;/span&gt;로 하고, 창호 철물은 주로 &lt;span title="Supplier" style="background:#bbdefb;"&gt;미국 에일회사(エール會社)&lt;/span&gt;제를 설치 계단 &lt;span title="Structure" style="background:#e1bee7;"&gt;철근콘크리트&lt;/span&gt; &lt;span title="Material" style="background:#dcedc8;"&gt;인조석&lt;/span&gt; 물갈기 마감, 난간 &lt;span title="Material" style="background:#dcedc8;"&gt;티크재&lt;/span&gt; 마감  
+
+설비 대요 &lt;span title="Facility" style="background:#ffccbc;"&gt;전기 설비&lt;/span&gt; 전선은 저압 지하 케이블을 이용하여 1층 배전반에 인입하고, 실내는 모두 튜브 안에 전선을 수납하여 은폐 공사로 처리하고, 각층 전등 및 인쇄 공장용 기타 동력에 배분하였다 &lt;span title="Facility" style="background:#ffccbc;"&gt;실내 전화 설비&lt;/span&gt; 가입자 인입선은 2층 &lt;span title="Facility" style="background:#ffccbc;"&gt;교환실&lt;/span&gt;에 인입하여 전환반에 접속하고, 사설 &lt;span title="Facility" style="background:#ffccbc;"&gt;전화 교환기&lt;/span&gt; 1대를 설치하여 각소 각실에 은폐 배선하며, 교환수에 의해 자유롭게 국 본선과 통화할 수 있는 설비로 한다 &lt;span title="Facility" style="background:#ffccbc;"&gt;난방 설비&lt;/span&gt;
+
+본 장치는 &lt;span title="Facility" style="background:#ffccbc;"&gt;증기난방 장치&lt;/span&gt;로 하고 &lt;span title="Supplier" style="background:#bbdefb;"&gt;아메리칸 라디에이터 회사&lt;/span&gt;제 아이디얼형 스모크리스 저압 기관 1기를 설치하여 각 층 각실의 방열기에 배분한다 &lt;span title="Facility" style="background:#ffccbc;"&gt;위생 설비&lt;/span&gt; 변소는 세조식으로 하고 오물은 &lt;span title="Facility" style="background:#ffccbc;"&gt;정화조&lt;/span&gt;에 유도하여 자연 구배에 의해 인근 청계천으로 배출한다 &lt;span title="Facility" style="background:#ffccbc;"&gt;급수 설비&lt;/span&gt; 음용 및 잡용 모두 부(府)의 수도로부터 공급받아 각 층의 필요 장소에 급수한다 &lt;span title="Facility" style="background:#ffccbc;"&gt;피뢰 설비&lt;/span&gt; 굴뚝 상부에 설치하고 도선을 이용하여 지하 항수면(恒水面) 아래 6척 지점에 지중판을 매설하여 연결한다
+
+&lt;span title="Facility" style="background:#ffccbc;"&gt;전기 시계 설비&lt;/span&gt; 하부식(阿部式, 아베식) &lt;span title="Facility" style="background:#ffccbc;"&gt;전기 시계&lt;/span&gt;를 설치하며, 어미 시계를 홀에, 그 외 각 실에 14개의 자시계(子時計)를 설치한다
+
+[[분류:신축공사개요]]</text>
+      <sha1>1c1f4qf3e1ypt51dmq8owl10tiekewo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>13집 10호 서대문우편국</title>
+    <ns>0</ns>
+    <id>36</id>
+    <revision>
+      <id>127</id>
+      <timestamp>2026-01-07T00:54:03Z</timestamp>
+      <contributor>
+        <username>Hajunlee</username>
+        <id>3</id>
+      </contributor>
+      <comment>새 문서: __NOTOC__ {| class="wikitable" style="width:100%; text-align:center; font-size:90%; margin-bottom:15px;" ! colspan="7" style="background:#f0f0f0;" | 데이터 태깅 범례 (Legend) |- | &lt;span style="background:#eceff1; padding:2px 5px; border-radius:3px;"&gt;건물 정보&lt;/span&gt; | &lt;span style="background:#b0bec5; padding:2px 5px; border-radius:3px;"&gt;공사비&lt;/span&gt; | &lt;span style="background:#bbdefb; padding:2px 5px; border-radius:3px;"&gt;인물/회사&lt;/span&gt; | &lt;span style="backgrou...</comment>
+      <origin>127</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8239" sha1="hdy7zretava2o38vcn9m81shkebrqkb" xml:space="preserve">__NOTOC__
+{| class="wikitable" style="width:100%; text-align:center; font-size:90%; margin-bottom:15px;"
+! colspan="7" style="background:#f0f0f0;" | 데이터 태깅 범례 (Legend)
+|-
+| &lt;span style="background:#eceff1; padding:2px 5px; border-radius:3px;"&gt;건물 정보&lt;/span&gt;
+| &lt;span style="background:#b0bec5; padding:2px 5px; border-radius:3px;"&gt;공사비&lt;/span&gt;
+| &lt;span style="background:#bbdefb; padding:2px 5px; border-radius:3px;"&gt;인물/회사&lt;/span&gt;
+| &lt;span style="background:#dcedc8; padding:2px 5px; border-radius:3px;"&gt;재료&lt;/span&gt;
+| &lt;span style="background:#e1bee7; padding:2px 5px; border-radius:3px;"&gt;구조&lt;/span&gt;
+| &lt;span style="background:#ffccbc; padding:2px 5px; border-radius:3px;"&gt;설비&lt;/span&gt;
+| &lt;span style="background:#fff9c4; padding:2px 5px; border-radius:3px;"&gt;위치/시기&lt;/span&gt;
+|}
+
+{| class="wikitable" style="float:right; width:300px;"
+! colspan="2" | 서대문우편국 신축공사 개요
+|-
+| colspan="2" | (사진)
+|-
+! 내용
+| AI Manual Tagging
+|}
+
+서대문우편국 신축공사 개요
+소재지　&lt;span title="Location" style="background:#fff9c4;"&gt;경성부 죽첨정2정목(竹添町2丁目) 8번지 2&lt;/span&gt;
+부지　&lt;span title="SiteArea" style="background:#eceff1;"&gt;1,696.695㎡ (514평 15)&lt;/span&gt;
+기공　&lt;span title="StartDate" style="background:#fff9c4;"&gt;1934년 5월 14일&lt;/span&gt;
+준공　&lt;span title="EndDate" style="background:#fff9c4;"&gt;1934년 10월 29일&lt;/span&gt;
+건물 높이　도로면에서 2층 상단까지 &lt;span title="Height" style="background:#eceff1;"&gt;10.24m (33척 7분 9린)&lt;/span&gt;
+굴뚝 꼭대기까지 바닥부터 &lt;span title="Height" style="background:#eceff1;"&gt;20.0m (66.0척)&lt;/span&gt;
+층수　일부 &lt;span title="Floors" style="background:#eceff1;"&gt;2층&lt;/span&gt; 건물
+국사(局舍) 연면적　&lt;span title="TotalArea" style="background:#eceff1;"&gt;573.38㎡ (173평 75)&lt;/span&gt;
+부속사 연면적　&lt;span title="TotalArea" style="background:#eceff1;"&gt;126.00㎡ (38평 18)&lt;/span&gt;
+난방기관실 연면적　&lt;span title="TotalArea" style="background:#eceff1;"&gt;26.00㎡ (7평 87)&lt;/span&gt;
+연결복도 연면적　&lt;span title="TotalArea" style="background:#eceff1;"&gt;19.40㎡ (5평 87)&lt;/span&gt;
+물건 창고[物置] 연면적　&lt;span title="TotalArea" style="background:#eceff1;"&gt;61.56㎡ (18평 65)&lt;/span&gt;
+주차장[車置場] 연면적　&lt;span title="TotalArea" style="background:#eceff1;"&gt;15.00㎡ (4평 54)&lt;/span&gt;
+자전거주차장[自轉車置場] 연면적　&lt;span title="TotalArea" style="background:#eceff1;"&gt;36.00㎡ (10평 90)&lt;/span&gt;
+각층 면적 및 용도
+국사 1층　&lt;span title="TotalArea" style="background:#eceff1;"&gt;408.19㎡ (123평 69)&lt;/span&gt;
+공중(公衆) 출입구, 공중 대기실[公衆溜], 공중 &lt;span title="Facility" style="background:#ffccbc;"&gt;전화실&lt;/span&gt;, 접수사무실, 현업실(現業室), 사무실, 구분실, 전신기계실, 전보배달인 대기실, 소포보관실, 계단실, 승강구
+국사 2층　&lt;span title="TotalArea" style="background:#eceff1;"&gt;165.19㎡ (50평 04)&lt;/span&gt;
+응접실, 식당, 예비실, 숙직실, 계단실 기타
+부속사 기타　&lt;span title="TotalArea" style="background:#eceff1;"&gt;283.96㎡ (86평 01)&lt;/span&gt;
+용인(傭人) 숙직실, 용인 대기실, 소사(小使) 숙직실, 탕비소(湯沸所), 욕실, &lt;span title="Facility" style="background:#ffccbc;"&gt;난방기관실&lt;/span&gt;, 변소, 물건 창고, 주차장, 자전거 주차장, 연결 복도
+양식　 신흥 형식
+구조 주체　&lt;span title="Structure" style="background:#e1bee7;"&gt;철근콘크리트조&lt;/span&gt;
+외부 마감　국사는 백색 &lt;span title="Material" style="background:#dcedc8;"&gt;타일&lt;/span&gt; 붙임, 부속사는 &lt;span title="Material" style="background:#dcedc8;"&gt;모르타르&lt;/span&gt; 긁어내기 도장, 물건 창고 기타는 &lt;span title="Material" style="background:#dcedc8;"&gt;비늘판&lt;/span&gt; 붙임
+내부 마감
+국사 천장　&lt;span title="Material" style="background:#dcedc8;"&gt;회반죽&lt;/span&gt;칠 마감
+벽 및 허리 둘레　&lt;span title="Material" style="background:#dcedc8;"&gt;회반죽&lt;/span&gt;칠 마감, 계단실·승강구 허리 둘레, &lt;span title="Material" style="background:#dcedc8;"&gt;모르타르&lt;/span&gt;칠 페인트칠 마감
+바닥　공중 출입구 및 공중 대기실, 황동 줄눈이 들어간 &lt;span title="Material" style="background:#dcedc8;"&gt;인조석&lt;/span&gt; 물갈기, 전신기계실ㆍ식당ㆍ응접실ㆍ예비실은 &lt;span title="Material" style="background:#dcedc8;"&gt;리놀륨&lt;/span&gt; 깔기, 접수ㆍ사무실ㆍ현업실ㆍ사무실ㆍ구분실ㆍ소포보관실은 &lt;span title="Material" style="background:#dcedc8;"&gt;마루&lt;/span&gt;깔기, 계단실ㆍ승강구ㆍ전보배달인 대기실은 &lt;span title="Material" style="background:#dcedc8;"&gt;모르타르&lt;/span&gt; 도장
+창호　외부 창 및 출입구는 모두 철제에 페인트 도장
+내부 출입구는 목제에 페인트칠 도어 사용, 이중 칸막이 및 공중전화실, 사서함은 &lt;span title="Material" style="background:#dcedc8;"&gt;졸참나무재&lt;/span&gt; 바니스칠 마감으로 함.
+카운터는 &lt;span title="Material" style="background:#dcedc8;"&gt;조선 테라조&lt;/span&gt; 사용, 스크린은 파이프(パイフ) 및 비크린 플라스(ビクリンプラス) 붙임 후 은색 락카 마감으로 함
+부속사 천장　 &lt;span title="Material" style="background:#dcedc8;"&gt;나무판&lt;/span&gt; 붙임 후 페인트칠 마감
+벽 및 허리 &lt;span title="Material" style="background:#dcedc8;"&gt;회반죽&lt;/span&gt;칠 마감, 허리 부분 &lt;span title="Material" style="background:#dcedc8;"&gt;징두리널&lt;/span&gt; 붙인 후 페인트 마감, 일부 허리 부분 &lt;span title="Material" style="background:#dcedc8;"&gt;타일&lt;/span&gt; 붙임
+바닥　 &lt;span title="Material" style="background:#dcedc8;"&gt;모르타르&lt;/span&gt;칠 막마, 일부 &lt;span title="Material" style="background:#dcedc8;"&gt;모자이크타일&lt;/span&gt; 붙음
+창호　내외부 모두 목제 페인트칠 마감
+&lt;span title="Facility" style="background:#ffccbc;"&gt;난방기관실&lt;/span&gt; 천장　 &lt;span title="Material" style="background:#dcedc8;"&gt;회반죽&lt;/span&gt;칠 마감
+벽 및 허리 둘레　벽 &lt;span title="Material" style="background:#dcedc8;"&gt;회반죽&lt;/span&gt;칠, 허리 둘레 &lt;span title="Material" style="background:#dcedc8;"&gt;모르타르&lt;/span&gt;칠 마감
+바닥　&lt;span title="Material" style="background:#dcedc8;"&gt;모르타르&lt;/span&gt;칠 마감으로 함
+창호　출입구 철제 페인트칠, 창 목제에 페인트칠 마감으로 함
+&lt;span title="Facility" style="background:#ffccbc;"&gt;난방설비&lt;/span&gt;
+&lt;span title="Facility" style="background:#ffccbc;"&gt;중력 2관식 저압증기난방&lt;/span&gt;으로 하고, 기관은 &lt;span title="Supplier" style="background:#bbdefb;"&gt;후쿠오카[福岡]제등제작소(齋藤製作所)&lt;/span&gt; 제작 아사히(アサヒ) 보일러 1기를 설치하고, 최고 5폰드의 증기를 발생시키고, 이를 통해 각층의 방열기로 보내기로 함
+&lt;span title="Facility" style="background:#ffccbc;"&gt;전기 설비&lt;/span&gt;
+전등　&lt;span title="Structure" style="background:#e1bee7;"&gt;철근콘크리트&lt;/span&gt; 건물 안은 금속관 은폐공사, &lt;span title="Structure" style="background:#e1bee7;"&gt;목조&lt;/span&gt; 건물 안은 제4종선 은폐 공사, 구내는 지하 전선 공사를 하여, 72등에 배전함
+&lt;span title="Facility" style="background:#ffccbc;"&gt;전기시계&lt;/span&gt;　&lt;span title="Supplier" style="background:#bbdefb;"&gt;웅공사(雄工社)&lt;/span&gt;제 유극2호 중추식(重錘式) 
+자동 어미 시계　1개
+동사제 자시계　14개
+전령　7개
+전화 배선　일식
+총공사비　&lt;span title="Cost" style="background:#b0bec5;"&gt;55,814엔&lt;/span&gt;
+공사 내역
+국사 신축 기타 공사　&lt;span title="Cost" style="background:#b0bec5;"&gt;47,400엔&lt;/span&gt;
+난방설비 공사　&lt;span title="Cost" style="background:#b0bec5;"&gt;5,199엔&lt;/span&gt;
+전기설비 공사　&lt;span title="Cost" style="background:#b0bec5;"&gt;3,225엔&lt;/span&gt;
+청부인
+건축 공사　&lt;span title="Builder" style="background:#bbdefb;"&gt;삼목(三木)합자회사&lt;/span&gt;
+난방 공사　&lt;span title="Builder" style="background:#bbdefb;"&gt;동구(東口)상회&lt;/span&gt;
+전기설비 공사　&lt;span title="Builder" style="background:#bbdefb;"&gt;삼전철태랑(山田鐵太郞)&lt;/span&gt;
+
+[[분류:신축공사개요]]</text>
+      <sha1>hdy7zretava2o38vcn9m81shkebrqkb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>15집 12호 황금좌</title>
+    <ns>0</ns>
+    <id>37</id>
+    <revision>
+      <id>129</id>
+      <timestamp>2026-01-07T04:56:10Z</timestamp>
+      <contributor>
+        <username>Hajunlee</username>
+        <id>3</id>
+      </contributor>
+      <comment>새 문서: __NOTOC__ {| class="wikitable" style="width:100%; text-align:center; font-size:90%; margin-bottom:15px;" ! colspan="7" style="background:#f0f0f0;" | 데이터 태깅 범례 (Legend) |- | &lt;span style="background:#eceff1; padding:2px 5px; border-radius:3px;"&gt;건물 정보&lt;/span&gt; | &lt;span style="background:#b0bec5; padding:2px 5px; border-radius:3px;"&gt;공사비&lt;/span&gt; | &lt;span style="background:#bbdefb; padding:2px 5px; border-radius:3px;"&gt;인물/회사&lt;/span&gt; | &lt;span style="backgrou...</comment>
+      <origin>129</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="9667" sha1="lk3hwnlt0ghizzlghh3zhzypr8zfo69" xml:space="preserve">__NOTOC__
+{| class="wikitable" style="width:100%; text-align:center; font-size:90%; margin-bottom:15px;"
+! colspan="7" style="background:#f0f0f0;" | 데이터 태깅 범례 (Legend)
+|-
+| &lt;span style="background:#eceff1; padding:2px 5px; border-radius:3px;"&gt;건물 정보&lt;/span&gt;
+| &lt;span style="background:#b0bec5; padding:2px 5px; border-radius:3px;"&gt;공사비&lt;/span&gt;
+| &lt;span style="background:#bbdefb; padding:2px 5px; border-radius:3px;"&gt;인물/회사&lt;/span&gt;
+| &lt;span style="background:#dcedc8; padding:2px 5px; border-radius:3px;"&gt;재료&lt;/span&gt;
+| &lt;span style="background:#e1bee7; padding:2px 5px; border-radius:3px;"&gt;구조&lt;/span&gt;
+| &lt;span style="background:#ffccbc; padding:2px 5px; border-radius:3px;"&gt;설비&lt;/span&gt;
+| &lt;span style="background:#fff9c4; padding:2px 5px; border-radius:3px;"&gt;위치/시기&lt;/span&gt;
+|}
+
+{| class="wikitable" style="float:right; width:300px;"
+! colspan="2" | 황금좌 신축공사 개요
+|-
+| colspan="2" | (사진)
+|-
+! 내용
+| AI Manual Tagging
+|}
+
+황금좌 신축공사 개요
+위치  &lt;span title="Location" style="background:#fff9c4;"&gt;경성부 황금정4정목(黄金町4丁目)&lt;/span&gt;
+건축면적  &lt;span title="TotalArea" style="background:#eceff1;"&gt;601.12평&lt;/span&gt;
+내역
+지하층  &lt;span title="TotalArea" style="background:#eceff1;"&gt;18.22&lt;/span&gt; 
+1층  &lt;span title="TotalArea" style="background:#eceff1;"&gt;293.17&lt;/span&gt;
+중2층  계단ㆍ회랑ㆍ조명실 등은 공작물로 간주함
+2층  &lt;span title="TotalArea" style="background:#eceff1;"&gt;181.34&lt;/span&gt;
+3층  &lt;span title="TotalArea" style="background:#eceff1;"&gt;102.95&lt;/span&gt; 
+옥상층  &lt;span title="TotalArea" style="background:#eceff1;"&gt;5.44&lt;/span&gt;
+높이   탑 &lt;span title="Height" style="background:#eceff1;"&gt;61.0&lt;/span&gt;    굴뚝 &lt;span title="Height" style="background:#eceff1;"&gt;70.0&lt;/span&gt;   앞쪽[表方] &lt;span title="Height" style="background:#eceff1;"&gt;57.8&lt;/span&gt;  백스테이지[裏方] &lt;span title="Height" style="background:#eceff1;"&gt;57.0&lt;/span&gt;
+구조    기초  단독 일부 줄기초 &lt;span title="Structure" style="background:#e1bee7;"&gt;철근콘크리트조&lt;/span&gt;
+골조[軀體]  &lt;span title="Structure" style="background:#e1bee7;"&gt;철골철근콘크리트조&lt;/span&gt;
+바닥  &lt;span title="Structure" style="background:#e1bee7;"&gt;철근콘크리트&lt;/span&gt;,  2, 3층 갤러리 &lt;span title="Structure" style="background:#e1bee7;"&gt;철골조&lt;/span&gt;
+지붕  &lt;span title="Structure" style="background:#e1bee7;"&gt;철골 트러스&lt;/span&gt;, &lt;span title="Structure" style="background:#e1bee7;"&gt;철근콘크리트&lt;/span&gt;
+양식   동양풍을 가미한 르네상스식
+관객 정원   총 1,128명 
+내역  1층 638명   2, 3층 490명
+외부 마감 개요
+앞쪽[表方]    허리 둘레 &lt;span title="Material" style="background:#dcedc8;"&gt;화강석&lt;/span&gt;, &lt;span title="Material" style="background:#dcedc8;"&gt;테라조&lt;/span&gt;    허리 위부터 2층 창 아래 돌림띠 상단, 버팀벽, 장식대, 조각, 주두ㆍ주저(柱底), 창틀, 창대 및 현관 흙바닥[土間] 부석(敷石) 대중(田中)식 &lt;span title="Material" style="background:#dcedc8;"&gt;인조석&lt;/span&gt; 잔다듬, 지붕 처마 주위 &lt;span title="Material" style="background:#dcedc8;"&gt;인조석&lt;/span&gt; 씻어내기[洗出し], 그 오는 &lt;span title="Material" style="background:#dcedc8;"&gt;타일&lt;/span&gt; 붙임 
+기와는 녹색(나고야[名古屋]산)  창은 모두 &lt;span title="Material" style="background:#dcedc8;"&gt;스틸 새시&lt;/span&gt;, 크림색 페인트칠
+매표소, 포스터 케이스 및 차양은 &lt;span title="Material" style="background:#dcedc8;"&gt;동판&lt;/span&gt; 타출 무늬로 하고 &lt;span title="Material" style="background:#dcedc8;"&gt;브론즈&lt;/span&gt; 마감
+출입구는 주철제 &lt;span title="Material" style="background:#dcedc8;"&gt;브론즈&lt;/span&gt; 마감
+측면 및 백스테이지[裏方]    허리 둘레 &lt;span title="Material" style="background:#dcedc8;"&gt;인조석&lt;/span&gt; 씻어내기 콘크리트, 일부 전면과 대략 같음
+양측에 비상계단을 설치하고 비상구는 모두 안전보드 부착 철문으로 함
+1층 비상구 및 창 새시는 전면을 준함.
+내부 마감 개요
+앞쪽[表方]    현관홀  &lt;span title="Material" style="background:#dcedc8;"&gt;모자이크타일&lt;/span&gt; 붙임, 좌우 및 뒤쪽[見返] 벽 및 계단은 &lt;span title="Material" style="background:#dcedc8;"&gt;트라버틴&lt;/span&gt; &lt;span title="Material" style="background:#dcedc8;"&gt;테라조&lt;/span&gt;, 장식 전등대, 계단 보더 홍색 &lt;span title="Material" style="background:#dcedc8;"&gt;테라조&lt;/span&gt;, 원기둥 4개 유색(乳色) &lt;span title="Material" style="background:#dcedc8;"&gt;모자이크&lt;/span&gt; 붙임으로 하고, 캐피탈은 &lt;span title="Material" style="background:#dcedc8;"&gt;석고&lt;/span&gt; &lt;span title="Material" style="background:#dcedc8;"&gt;브론즈&lt;/span&gt; 마감으로 한다.
+2층높이 천장[吹拔天井] 및 중2층 주변은 &lt;span title="Material" style="background:#dcedc8;"&gt;플라스터&lt;/span&gt; 마감, 조각 석고 수성페인트 마감
+중2층 난간은 &lt;span title="Material" style="background:#dcedc8;"&gt;황동&lt;/span&gt; 및 주철 &lt;span title="Material" style="background:#dcedc8;"&gt;브론즈&lt;/span&gt; 마감, 벽은 &lt;span title="Material" style="background:#dcedc8;"&gt;세메팔트텍스&lt;/span&gt; 금분 도장[金粉置塗], 객석 출입문, &lt;span title="Material" style="background:#dcedc8;"&gt;단풍나무 베니어판&lt;/span&gt; 바니시칠, 각층 유보장(遊步場) 허리 부분 및 바닥은 &lt;span title="Material" style="background:#dcedc8;"&gt;콘벡스&lt;/span&gt; 마감으로 하고 벽은 &lt;span title="Material" style="background:#dcedc8;"&gt;회반죽&lt;/span&gt; 마감으로 함.
+계단 주변 난간 및 보더는 홍색 &lt;span title="Material" style="background:#dcedc8;"&gt;테라조&lt;/span&gt;, 바닥은 &lt;span title="Material" style="background:#dcedc8;"&gt;콘벡스&lt;/span&gt; 마감으로 한다. 벽은 &lt;span title="Material" style="background:#dcedc8;"&gt;세메팔트텍스&lt;/span&gt; 금분 도장으로 한다.
+2층 홀 바닥 &lt;span title="Material" style="background:#dcedc8;"&gt;콘벡스&lt;/span&gt; 물갈기 및 벽은 계단과 동일, 장식대 및 매점 카운터는 홍색 &lt;span title="Material" style="background:#dcedc8;"&gt;테라조&lt;/span&gt;
+관객석 내부
+대천장 &lt;span title="Material" style="background:#dcedc8;"&gt;텍스&lt;/span&gt; 붙임, 벽은 &lt;span title="Material" style="background:#dcedc8;"&gt;모리노이트(モリノイト)&lt;/span&gt; 붙임으로 하고, 화색[樺], 하늘색, 금색의 3색 수성 페인트, 바닥 및 벽 &lt;span title="Material" style="background:#dcedc8;"&gt;콘벡스&lt;/span&gt;칠, 프로세니엄 아치 폭 40, 높이 안치수 22.5로 하고, 테두리 조각 및 캐피탈은 &lt;span title="Material" style="background:#dcedc8;"&gt;석고&lt;/span&gt; 유색 페인트 블러 처리[ボカシ仕上], 원기둥 4개는 짙은 화색 &lt;span title="Material" style="background:#dcedc8;"&gt;모자이크타일&lt;/span&gt; 붙임으로 함.
+좌우 무대 반향벽, 동 천장 및 1층 객석 천장은 코르크 페인트 마감으로 하고, 전자는 금색 바탕에 코르크색 무늬를 둔다. 좌우 화도(花道)를 설치하고 연극에 사용함.
+백스테이지[裏方]   무대 면적 폭 27.0 × 길이 70.0, 포도 선반[ブドウ棚] 높이(무대 바닥 위) 51.0, 추가 5척으로 천장에 도달함. 바닥은 전부 &lt;span title="Material" style="background:#dcedc8;"&gt;소나무[吋松]판&lt;/span&gt; 붙임으로 함. 상수(上手)에서 하수(下手)로 1층 라이트 갤러리와 상수에 2열 라이트 갤러리를 설치함. 1, 2층에 변소를 두고, 3층은 분장실[樂屋] 겸용의 시사실을 설치한다.
+설비 개요
+&lt;span title="Facility" style="background:#ffccbc;"&gt;전기&lt;/span&gt;   지하실에 &lt;span title="Facility" style="background:#ffccbc;"&gt;변전소&lt;/span&gt;를 설치하고 1층 무대 및 3층 각 분전반으로 보내 각각의 조작에 대비하고, 3층 영사실에서 &lt;span title="Facility" style="background:#ffccbc;"&gt;오토 트랜스 포머&lt;/span&gt;를 사용하여 조광함.
+&lt;span title="Facility" style="background:#ffccbc;"&gt;전화&lt;/span&gt;, 실내 및 관객용 자동전화, 전령, &lt;span title="Facility" style="background:#ffccbc;"&gt;전기시계&lt;/span&gt;를 각층에 갖춤. 탑에 2개소의 &lt;span title="Facility" style="background:#ffccbc;"&gt;피뢰침&lt;/span&gt;을 둠.
+&lt;span title="Facility" style="background:#ffccbc;"&gt;난방 및 환기장치&lt;/span&gt;
+증기관을 지하실에 두고, 관객석 및 홀의 캐비넷 각실의 라디에이터로 실내 온도를 조절하고, 천장 덕트는 옥상 기계실 팬으로 &lt;span title="Facility" style="background:#ffccbc;"&gt;환기&lt;/span&gt; 조정함.
+방화  각층 및 무대에 &lt;span title="Facility" style="background:#ffccbc;"&gt;소화전&lt;/span&gt;을 설치하여 만일의 경우에 대비함.
+&lt;span title="Facility" style="background:#ffccbc;"&gt;위생&lt;/span&gt;  음료, 난방 및 세면은 시수(市水)를 사용하고, 기타 잡용은 착천수(鑿泉水)를 사용함. 배수는 옥외 &lt;span title="Facility" style="background:#ffccbc;"&gt;정화조&lt;/span&gt;로 정화 후 시 하수에 방류함.
+공정   기공 &lt;span title="StartDate" style="background:#fff9c4;"&gt;1935년 11월 15일&lt;/span&gt;
+       준공 &lt;span title="EndDate" style="background:#fff9c4;"&gt;1936년 11월 15일&lt;/span&gt;
+총공사비
+설계감독 &lt;span title="Architect" style="background:#bbdefb;"&gt;옥전(玉田)건축사무소&lt;/span&gt;
+공사 청부자  건축공사 &lt;span title="Builder" style="background:#bbdefb;"&gt;장문조(長門組)&lt;/span&gt;
+전기공사  &lt;span title="Supplier" style="background:#bbdefb;"&gt;도전상회(島田商會)&lt;/span&gt;
+난방 위생공사  &lt;span title="Supplier" style="background:#bbdefb;"&gt;좌등덕이랑(佐藤德二郞)&lt;/span&gt;
+
+[[분류:신축공사개요]]</text>
+      <sha1>lk3hwnlt0ghizzlghh3zhzypr8zfo69</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>16집 12호 주식회사화신본관</title>
+    <ns>0</ns>
+    <id>38</id>
+    <revision>
+      <id>130</id>
+      <timestamp>2026-01-07T04:56:31Z</timestamp>
+      <contributor>
+        <username>Hajunlee</username>
+        <id>3</id>
+      </contributor>
+      <comment>새 문서: __NOTOC__ {| class="wikitable" style="width:100%; text-align:center; font-size:90%; margin-bottom:15px;" ! colspan="7" style="background:#f0f0f0;" | 데이터 태깅 범례 (Legend) |- | &lt;span style="background:#eceff1; padding:2px 5px; border-radius:3px;"&gt;건물 정보&lt;/span&gt; | &lt;span style="background:#b0bec5; padding:2px 5px; border-radius:3px;"&gt;공사비&lt;/span&gt; | &lt;span style="background:#bbdefb; padding:2px 5px; border-radius:3px;"&gt;인물/회사&lt;/span&gt; | &lt;span style="backgrou...</comment>
+      <origin>130</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8359" sha1="i63ljz82ibsg27xrnf69byn4f80xrx0" xml:space="preserve">__NOTOC__
+{| class="wikitable" style="width:100%; text-align:center; font-size:90%; margin-bottom:15px;"
+! colspan="7" style="background:#f0f0f0;" | 데이터 태깅 범례 (Legend)
+|-
+| &lt;span style="background:#eceff1; padding:2px 5px; border-radius:3px;"&gt;건물 정보&lt;/span&gt;
+| &lt;span style="background:#b0bec5; padding:2px 5px; border-radius:3px;"&gt;공사비&lt;/span&gt;
+| &lt;span style="background:#bbdefb; padding:2px 5px; border-radius:3px;"&gt;인물/회사&lt;/span&gt;
+| &lt;span style="background:#dcedc8; padding:2px 5px; border-radius:3px;"&gt;재료&lt;/span&gt;
+| &lt;span style="background:#e1bee7; padding:2px 5px; border-radius:3px;"&gt;구조&lt;/span&gt;
+| &lt;span style="background:#ffccbc; padding:2px 5px; border-radius:3px;"&gt;설비&lt;/span&gt;
+| &lt;span style="background:#fff9c4; padding:2px 5px; border-radius:3px;"&gt;위치/시기&lt;/span&gt;
+|}
+
+{| class="wikitable" style="float:right; width:300px;"
+! colspan="2" | 주식회사 화신 본관 신축공사 개요
+|-
+| colspan="2" | (사진)
+|-
+! 내용
+| AI Manual Tagging
+|}
+
+주식회사 화신 본관 신축공사 개요
+위치   &lt;span title="Location" style="background:#fff9c4;"&gt;경성부 종로2정목(鍾路2丁目) 3번지&lt;/span&gt;
+부지 면적   &lt;span title="SiteArea" style="background:#eceff1;"&gt;324.80평&lt;/span&gt;
+건물 면적   건평 &lt;span title="TotalArea" style="background:#eceff1;"&gt;282.91평&lt;/span&gt;
+연면적   &lt;span title="TotalArea" style="background:#eceff1;"&gt;2,034.45평&lt;/span&gt;
+(본관 및 부속건물 포함) &lt;span title="TotalArea" style="background:#eceff1;"&gt;3,011.25평&lt;/span&gt;
+내역
+지하층 &lt;span title="TotalArea" style="background:#eceff1;"&gt;299.64평&lt;/span&gt;
+1층 &lt;span title="TotalArea" style="background:#eceff1;"&gt;282.91평&lt;/span&gt;
+2층 &lt;span title="TotalArea" style="background:#eceff1;"&gt;281.54평&lt;/span&gt;
+3층 &lt;span title="TotalArea" style="background:#eceff1;"&gt;287.84평&lt;/span&gt;
+4층 &lt;span title="TotalArea" style="background:#eceff1;"&gt;250.91평&lt;/span&gt;
+5층 &lt;span title="TotalArea" style="background:#eceff1;"&gt;250.91평&lt;/span&gt;
+6층 &lt;span title="TotalArea" style="background:#eceff1;"&gt;244.61평&lt;/span&gt;
+옥상층 &lt;span title="TotalArea" style="background:#eceff1;"&gt;118.60평&lt;/span&gt;
+탑 &lt;span title="TotalArea" style="background:#eceff1;"&gt;17.49평&lt;/span&gt;
+처마 높이   표준 지반면으로부터 &lt;span title="Height" style="background:#eceff1;"&gt;82.6척&lt;/span&gt;
+동 탑 상단까지 &lt;span title="Height" style="background:#eceff1;"&gt;101.9척&lt;/span&gt;
+건축양식   근세 부흥식
+기초     지반면 아래 15척 전면굴착하지 않음. &lt;span title="Material" style="background:#dcedc8;"&gt;생 소나무 통나무&lt;/span&gt; 말구 지름 7촌, 길이 18척짜리 1,579개를 박고, 그 위에 콘크리트를 타설하여 평탄하게 한 뒤 아스팔트 방수층을 시설한 위에 &lt;span title="Structure" style="background:#e1bee7;"&gt;철근콘크리트&lt;/span&gt; 기초를 구성함.
+주체 구조  &lt;span title="Structure" style="background:#e1bee7;"&gt;철근콘크리트조&lt;/span&gt;이며, 일부 갤러리ㆍ온실 및 사진실 등은 &lt;span title="Structure" style="background:#e1bee7;"&gt;철골&lt;/span&gt;로 조립함.
+외부 마감 외벽 1층 둘레는 &lt;span title="Material" style="background:#dcedc8;"&gt;화강석&lt;/span&gt; 붙임, 현관 둘레는 &lt;span title="Material" style="background:#dcedc8;"&gt;대리석&lt;/span&gt; 붙임, 일부는 &lt;span title="Material" style="background:#dcedc8;"&gt;인조석&lt;/span&gt;으로 하고 그 주체는 &lt;span title="Material" style="background:#dcedc8;"&gt;타일&lt;/span&gt; 붙임으로 하고 뒷면은 &lt;span title="Material" style="background:#dcedc8;"&gt;네일크리트&lt;/span&gt; 칠로 함.
+옥상 바닥은 &lt;span title="Material" style="background:#dcedc8;"&gt;클링커 타일&lt;/span&gt; 깔기로 함.
+내부 마감
+바닥 지하층은 &lt;span title="Material" style="background:#dcedc8;"&gt;인조석&lt;/span&gt; 물갈기[硏出し], 1층은 &lt;span title="Material" style="background:#dcedc8;"&gt;모자이크 타일&lt;/span&gt; 붙임, 2, 3, 4, 5층은 &lt;span title="Material" style="background:#dcedc8;"&gt;플로어링 블록&lt;/span&gt; 깔기, 일부 식당 및 사진실 등은 &lt;span title="Material" style="background:#dcedc8;"&gt;고무 타일&lt;/span&gt; 깔기로 하고, 
+허리 부분은 지하층은 페인트칠, 그 외는 모두 &lt;span title="Material" style="background:#dcedc8;"&gt;카제인&lt;/span&gt; 칠로 함.
+벽과 천장은 모두 흰 &lt;span title="Material" style="background:#dcedc8;"&gt;회반죽&lt;/span&gt; 칠로 함.
+창 및 출입문은 모두 &lt;span title="Material" style="background:#dcedc8;"&gt;강철제&lt;/span&gt;임.
+부대 설비
+&lt;span title="Facility" style="background:#ffccbc;"&gt;피난설비&lt;/span&gt;   각 계단실 및 승강구 주변에 &lt;span title="Facility" style="background:#ffccbc;"&gt;방화 셔터&lt;/span&gt;를 설치하고, 옥외로 통하는 강철제 &lt;span title="Facility" style="background:#ffccbc;"&gt;비상계단&lt;/span&gt;을 두 곳에 설치함. 
+각 층마다 &lt;span title="Facility" style="background:#ffccbc;"&gt;확성기&lt;/span&gt; 및 &lt;span title="Facility" style="background:#ffccbc;"&gt;화재경보기&lt;/span&gt;를 설치함.
+&lt;span title="Facility" style="background:#ffccbc;"&gt;전기설비&lt;/span&gt;    지하층에 &lt;span title="Facility" style="background:#ffccbc;"&gt;배전반&lt;/span&gt;을 두고 각 층에 분전반을 설비함.
+그 외 &lt;span title="Facility" style="background:#ffccbc;"&gt;전기시계&lt;/span&gt;, &lt;span title="Facility" style="background:#ffccbc;"&gt;확성기&lt;/span&gt;, &lt;span title="Facility" style="background:#ffccbc;"&gt;화재경보기&lt;/span&gt;, 전령, &lt;span title="Facility" style="background:#ffccbc;"&gt;환기팬&lt;/span&gt;, &lt;span title="Facility" style="background:#ffccbc;"&gt;네온 광고등&lt;/span&gt;, &lt;span title="Facility" style="background:#ffccbc;"&gt;냉동장치&lt;/span&gt;, &lt;span title="Facility" style="background:#ffccbc;"&gt;승강기용 동력설비&lt;/span&gt; 등을 시설함.
+&lt;span title="Facility" style="background:#ffccbc;"&gt;전화설비&lt;/span&gt;    &lt;span title="Facility" style="background:#ffccbc;"&gt;자동교환기&lt;/span&gt;를 설비함.
+국선 19회선
+사선 90회선
+&lt;span title="Facility" style="background:#ffccbc;"&gt;공중전화&lt;/span&gt; 2개소
+&lt;span title="Facility" style="background:#ffccbc;"&gt;가스설비&lt;/span&gt;    경성전기회사의 공급을 받음.
+&lt;span title="Facility" style="background:#ffccbc;"&gt;난방설비&lt;/span&gt;    &lt;span title="Facility" style="background:#ffccbc;"&gt;진공증기난방장치&lt;/span&gt;로서 기관 3기(난방 면적[ranging] 7,250평방피트)를 설치함.
+&lt;span title="Facility" style="background:#ffccbc;"&gt;환기설비&lt;/span&gt;    주방, 홀, 각 층 화장실 등의 배기는 &lt;span title="Facility" style="background:#ffccbc;"&gt;덕트[風導管]&lt;/span&gt;를 설비하여 옥외 배기기관에 연결함.
+&lt;span title="Facility" style="background:#ffccbc;"&gt;급수설비&lt;/span&gt;    부영 상수도 본관에 직결함.
+&lt;span title="Facility" style="background:#ffccbc;"&gt;배수설비&lt;/span&gt;    집수정[溜桝]을 거쳐 자연유하식으로 하고, 지하층의 배수는 전동식(자동 스위치에 의함)으로 함.
+&lt;span title="Facility" style="background:#ffccbc;"&gt;소화설비&lt;/span&gt;   옥외에 &lt;span title="Facility" style="background:#ffccbc;"&gt;소방용 펌프&lt;/span&gt; 1개소, 옥내에는 각 층에 &lt;span title="Facility" style="background:#ffccbc;"&gt;소화전&lt;/span&gt;을 설비함.
+&lt;span title="Facility" style="background:#ffccbc;"&gt;오수정화장치&lt;/span&gt;   &lt;span title="Facility" style="background:#ffccbc;"&gt;오므스식 정화조&lt;/span&gt;를 2개소 설치함.
+&lt;span title="Facility" style="background:#ffccbc;"&gt;승강기설비&lt;/span&gt;   &lt;span title="Facility" style="background:#ffccbc;"&gt;승객용(15인승)&lt;/span&gt; 2기, &lt;span title="Facility" style="background:#ffccbc;"&gt;점원용(15인승)&lt;/span&gt; 1기.
+공사 공정
+착공 &lt;span title="StartDate" style="background:#fff9c4;"&gt;1935년 5월 5일&lt;/span&gt;
+준공 &lt;span title="EndDate" style="background:#fff9c4;"&gt;1937년 10월 30일&lt;/span&gt;
+공사 관계자
+설계감독   &lt;span title="Architect" style="background:#bbdefb;"&gt;박길룡 건축사무소&lt;/span&gt;
+시공       &lt;span title="Builder" style="background:#bbdefb;"&gt;주식회사 청수조(淸水組)&lt;/span&gt;
+부대설비 공사자
+&lt;span title="Supplier" style="background:#bbdefb;"&gt;도전전기주식회사(島田電氣株式會社)&lt;/span&gt;
+&lt;span title="Supplier" style="background:#bbdefb;"&gt;동구상회(東口商會)&lt;/span&gt;
+&lt;span title="Supplier" style="background:#bbdefb;"&gt;소림공업사무소(小林工業事務所)&lt;/span&gt;
+
+[[분류:신축공사개요]]</text>
+      <sha1>i63ljz82ibsg27xrnf69byn4f80xrx0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>17집 2호 동본원사경성별원각전고리</title>
+    <ns>0</ns>
+    <id>39</id>
+    <revision>
+      <id>131</id>
+      <timestamp>2026-01-07T04:56:54Z</timestamp>
+      <contributor>
+        <username>Hajunlee</username>
+        <id>3</id>
+      </contributor>
+      <comment>새 문서: __NOTOC__ {| class="wikitable" style="width:100%; text-align:center; font-size:90%; margin-bottom:15px;" ! colspan="7" style="background:#f0f0f0;" | 데이터 태깅 범례 (Legend) |- | &lt;span style="background:#eceff1; padding:2px 5px; border-radius:3px;"&gt;건물 정보&lt;/span&gt; | &lt;span style="background:#b0bec5; padding:2px 5px; border-radius:3px;"&gt;공사비&lt;/span&gt; | &lt;span style="background:#bbdefb; padding:2px 5px; border-radius:3px;"&gt;인물/회사&lt;/span&gt; | &lt;span style="backgrou...</comment>
+      <origin>131</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8953" sha1="ow8128wdanw5y7vwvn01xrume2oif2n" xml:space="preserve">__NOTOC__
+{| class="wikitable" style="width:100%; text-align:center; font-size:90%; margin-bottom:15px;"
+! colspan="7" style="background:#f0f0f0;" | 데이터 태깅 범례 (Legend)
+|-
+| &lt;span style="background:#eceff1; padding:2px 5px; border-radius:3px;"&gt;건물 정보&lt;/span&gt;
+| &lt;span style="background:#b0bec5; padding:2px 5px; border-radius:3px;"&gt;공사비&lt;/span&gt;
+| &lt;span style="background:#bbdefb; padding:2px 5px; border-radius:3px;"&gt;인물/회사&lt;/span&gt;
+| &lt;span style="background:#dcedc8; padding:2px 5px; border-radius:3px;"&gt;재료&lt;/span&gt;
+| &lt;span style="background:#e1bee7; padding:2px 5px; border-radius:3px;"&gt;구조&lt;/span&gt;
+| &lt;span style="background:#ffccbc; padding:2px 5px; border-radius:3px;"&gt;설비&lt;/span&gt;
+| &lt;span style="background:#fff9c4; padding:2px 5px; border-radius:3px;"&gt;위치/시기&lt;/span&gt;
+|}
+
+{| class="wikitable" style="float:right; width:300px;"
+! colspan="2" | 동본원사(東本願寺) 경성별원(京城別院) 객전(客殿) 고리(庫裡) 신축공사 개요
+|-
+| colspan="2" | (사진)
+|-
+! 내용
+| AI Manual Tagging
+|}
+
+동본원사(東本願寺) 경성별원(京城別院) 객전(客殿) 고리(庫裡) 신축공사 개요
+위치   &lt;span title="Location" style="background:#fff9c4;"&gt;경성부 남산정3정목(南山町三丁日) 34번지&lt;/span&gt; (경내 본당의 서북쪽에 위치)
+건축 연면적    &lt;span title="TotalArea" style="background:#eceff1;"&gt;384평 299&lt;/span&gt;
+내역
+서원(書院) 1층 &lt;span title="TotalArea" style="background:#eceff1;"&gt;162평 725&lt;/span&gt;
+〃         2층 &lt;span title="TotalArea" style="background:#eceff1;"&gt;75평 394&lt;/span&gt;
+객전(客殿) 1층 &lt;span title="TotalArea" style="background:#eceff1;"&gt;25평 857&lt;/span&gt;
+〃         2층 &lt;span title="TotalArea" style="background:#eceff1;"&gt;30평 240&lt;/span&gt;
+재근(在勤) 1층 &lt;span title="TotalArea" style="background:#eceff1;"&gt;23평 231&lt;/span&gt;
+〃         2층 &lt;span title="TotalArea" style="background:#eceff1;"&gt;25평 672&lt;/span&gt;
+지하실 &lt;span title="TotalArea" style="background:#eceff1;"&gt;41평 180&lt;/span&gt;
+양식   도원(桃山, 모모야마)풍을 가미한 근대 일본건축
+주체 구조   &lt;span title="Structure" style="background:#e1bee7;"&gt;목조&lt;/span&gt; 및 &lt;span title="Structure" style="background:#e1bee7;"&gt;철근콘크리트조&lt;/span&gt;
+건축물의 높이
+서원   처마높이 &lt;span title="Height" style="background:#eceff1;"&gt;29척 8촌&lt;/span&gt;, 최고부 &lt;span title="Height" style="background:#eceff1;"&gt;43척&lt;/span&gt;
+하옥(下屋)  처마 높이 &lt;span title="Height" style="background:#eceff1;"&gt;14척 3촌&lt;/span&gt;
+객전 처마 높이 &lt;span title="Height" style="background:#eceff1;"&gt;23척&lt;/span&gt;, 재근실(在勤室) 처마 높이 &lt;span title="Height" style="background:#eceff1;"&gt;22척&lt;/span&gt;
+지하실 층고 &lt;span title="Height" style="background:#eceff1;"&gt;10척 3촌&lt;/span&gt;
+건물 외장
+서원  허리 부분은 &lt;span title="Material" style="background:#dcedc8;"&gt;화강석&lt;/span&gt; 잔다듬 마감, 외부 기둥은 붙임기둥이고, 이것에 붙임 토대와 장압(長押) 등을 두르고 단장혀[舟肘木]로 처마 화장 도리[軒化粧桁]를 받치게 하였음. 벽 마무리칠은 &lt;span title="Material" style="background:#dcedc8;"&gt;돌로마이트&lt;/span&gt; 연한 회색을 솔질 마무리하였으며, 목부는 모두 &lt;span title="Material" style="background:#dcedc8;"&gt;오일 스테인&lt;/span&gt;으로 엷게 색을 입히고, 목재 절단면[木口]은 백색 &lt;span title="Material" style="background:#dcedc8;"&gt;페인트&lt;/span&gt;칠을 함. 지붕은 일본식 &lt;span title="Material" style="background:#dcedc8;"&gt;기와&lt;/span&gt;지붕으로 하고 &lt;span title="Material" style="background:#dcedc8;"&gt;귀와(鬼瓦)&lt;/span&gt; 및 기타 서원풍 기와를 사용함.
+객전 및 재근   허리 부분은 &lt;span title="Material" style="background:#dcedc8;"&gt;모르타르&lt;/span&gt; 바름, 외벽은 연두 및 노란색의 &lt;span title="Material" style="background:#dcedc8;"&gt;라인토건[ライントガン]&lt;/span&gt; 뿜칠 마감으로 함.
+지하실   북쪽 도로면은 부지와 도로의 고저차를 이용하여 이에 창과 입구를 설치하고, 벽면 사이의 &lt;span title="Material" style="background:#dcedc8;"&gt;자연석[地石]&lt;/span&gt;을 석축과 같은 방식으로 붙임.
+건물 내장 (주요 실만 게재)
+서원
+차대    바닥 &lt;span title="Material" style="background:#dcedc8;"&gt;화강석&lt;/span&gt; 마름모깔기[四半敷], 천장 격자천장 &lt;span title="Material" style="background:#dcedc8;"&gt;베니어 벚나무판&lt;/span&gt;을 붙이고, 처마 끝에는 화장 서까래[化粧棰]로 함.
+현관    바닥 &lt;span title="Material" style="background:#dcedc8;"&gt;인조 물갈기&lt;/span&gt; 마름모깔기[四半目地切], 벽은 흰 &lt;span title="Material" style="background:#dcedc8;"&gt;회반죽&lt;/span&gt;, 천장은 쌍격자 격자천장[吹寄格天井]에 회반죽 칠, 부대[敷臺] &lt;span title="Material" style="background:#dcedc8;"&gt;느티나무&lt;/span&gt;.
+홀[廣間]   바닥은 &lt;span title="Material" style="background:#dcedc8;"&gt;졸참나무&lt;/span&gt; 체크무늬[市松] 쪽모이 세공, 셸락 바니시 마감, 천장은 &lt;span title="Material" style="background:#dcedc8;"&gt;삼나무&lt;/span&gt; 곧은결 베니어 격자천장, 고창[欄間] 보 사이에는 죽절(竹之節).
+내근실[內勤の間]   바닥 &lt;span title="Material" style="background:#dcedc8;"&gt;다다미&lt;/span&gt;, 벽은 &lt;span title="Material" style="background:#dcedc8;"&gt;사벽&lt;/span&gt;, 천장은 오리아게고텐조 바니시 칠, 불단은 &lt;span title="Material" style="background:#dcedc8;"&gt;옻칠&lt;/span&gt;.
+응접실    바닥은 &lt;span title="Material" style="background:#dcedc8;"&gt;졸참나무 플로어링&lt;/span&gt;, 벽은 벽지붙임, 소벽(小壁)은 &lt;span title="Material" style="background:#dcedc8;"&gt;회반죽&lt;/span&gt;, 천장은 &lt;span title="Material" style="background:#dcedc8;"&gt;회반죽&lt;/span&gt; 칠.
+객실[客間]    바닥 &lt;span title="Material" style="background:#dcedc8;"&gt;다다미&lt;/span&gt;, 벽 &lt;span title="Material" style="background:#dcedc8;"&gt;사벽&lt;/span&gt;, 천장은 &lt;span title="Material" style="background:#dcedc8;"&gt;삼나무&lt;/span&gt; 곧은결 베니어 사오부치천장, 향협간창(香挾間窓)은 &lt;span title="Material" style="background:#dcedc8;"&gt;옻칠&lt;/span&gt;.
+상단의 방[上段の間]    바닥 &lt;span title="Material" style="background:#dcedc8;"&gt;다다미&lt;/span&gt;, 벽은 &lt;span title="Material" style="background:#dcedc8;"&gt;사벽&lt;/span&gt;, 개미벽[蟻壁]은 조자[鳥の子] 종이 붙임, 천장은 &lt;span title="Material" style="background:#dcedc8;"&gt;삼나무&lt;/span&gt; 곧은결 오리아게고텐조, 토코바시라[床柱] &lt;span title="Material" style="background:#dcedc8;"&gt;춘일삼나무[春日杉]&lt;/span&gt; 곧은결재, 오토시가케[落掛] &lt;span title="Material" style="background:#dcedc8;"&gt;오동나무&lt;/span&gt; 곧은결재, 토코가마치[床框], 치가이다나[違棚] 주변 초다이가마에[帳臺構] 및 아가리카마치[上り框]는, 납색 &lt;span title="Material" style="background:#dcedc8;"&gt;옻[蠟色漆]&lt;/span&gt;칠 마감한 후 장식 철물 부착.
+두 번째 방[二の間] 및 세 번째 방[三の間]   바닥 &lt;span title="Material" style="background:#dcedc8;"&gt;다다미&lt;/span&gt;, 벽은 &lt;span title="Material" style="background:#dcedc8;"&gt;사벽&lt;/span&gt;, 개미벽은 조자 종이 붙임, 천장은 평격자천장[平格天井].
+객전(客殿)
+윤향실(輪香室)  바닥 &lt;span title="Material" style="background:#dcedc8;"&gt;다다미&lt;/span&gt;, 벽 &lt;span title="Material" style="background:#dcedc8;"&gt;사벽&lt;/span&gt;, 천장은 사오부치 판 천장[竿椽板貼天井].
+귀빈실    바닥 &lt;span title="Material" style="background:#dcedc8;"&gt;다다미&lt;/span&gt;, 벽 &lt;span title="Material" style="background:#dcedc8;"&gt;사벽&lt;/span&gt;, 천장은 &lt;span title="Material" style="background:#dcedc8;"&gt;사츠마삼나무[薩摩杉]&lt;/span&gt; 베니어 사오부치천장.
+선룸   바닥은 &lt;span title="Material" style="background:#dcedc8;"&gt;미송 연자판(椽子板)&lt;/span&gt; 깔기, 벽은 &lt;span title="Material" style="background:#dcedc8;"&gt;황대진(黃大津)&lt;/span&gt;, 천장은 연등천장.
+재근실   보통 주택 마감
+공정
+기공 &lt;span title="StartDate" style="background:#fff9c4;"&gt;1937년 4월 5일&lt;/span&gt;
+준공 &lt;span title="EndDate" style="background:#fff9c4;"&gt;1937년 11월 30일&lt;/span&gt;
+공사 관계자
+설계 &lt;span title="Architect" style="background:#bbdefb;"&gt;다전공무점(多田工務店)&lt;/span&gt; 설계부
+감독 &lt;span title="Architect" style="background:#bbdefb;"&gt;사사조영상담소(社寺造營相談所) 기사 장곡천상태랑(長谷川常太郞)&lt;/span&gt;
+시공  &lt;span title="Builder" style="background:#bbdefb;"&gt;생전조(生田組) 생전송태랑(生田松太郞)&lt;/span&gt;
+부대공사 설비 관계자
+난방위생공사 &lt;span title="Supplier" style="background:#bbdefb;"&gt;삼산제작소(杉山製作所)&lt;/span&gt;
+전기공사 – &lt;span title="Supplier" style="background:#bbdefb;"&gt;조일전기상회(朝日電氣商會)&lt;/span&gt;
+
+[[분류:신축공사개요]]</text>
+      <sha1>ow8128wdanw5y7vwvn01xrume2oif2n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>18집 2호 법덕온천호텔본관</title>
+    <ns>0</ns>
+    <id>40</id>
+    <revision>
+      <id>132</id>
+      <timestamp>2026-01-07T04:57:48Z</timestamp>
+      <contributor>
+        <username>Hajunlee</username>
+        <id>3</id>
+      </contributor>
+      <comment>새 문서: __NOTOC__ {| class="wikitable" style="width:100%; text-align:center; font-size:90%; margin-bottom:15px;" ! colspan="7" style="background:#f0f0f0;" | 데이터 태깅 범례 (Legend) |- | &lt;span style="background:#eceff1; padding:2px 5px; border-radius:3px;"&gt;건물 정보&lt;/span&gt; | &lt;span style="background:#b0bec5; padding:2px 5px; border-radius:3px;"&gt;공사비&lt;/span&gt; | &lt;span style="background:#bbdefb; padding:2px 5px; border-radius:3px;"&gt;인물/회사&lt;/span&gt; | &lt;span style="backgrou...</comment>
+      <origin>132</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="9609" sha1="ieuxbvkpfijk4icwjqxpz7c5odzb238" xml:space="preserve">__NOTOC__
+{| class="wikitable" style="width:100%; text-align:center; font-size:90%; margin-bottom:15px;"
+! colspan="7" style="background:#f0f0f0;" | 데이터 태깅 범례 (Legend)
+|-
+| &lt;span style="background:#eceff1; padding:2px 5px; border-radius:3px;"&gt;건물 정보&lt;/span&gt;
+| &lt;span style="background:#b0bec5; padding:2px 5px; border-radius:3px;"&gt;공사비&lt;/span&gt;
+| &lt;span style="background:#bbdefb; padding:2px 5px; border-radius:3px;"&gt;인물/회사&lt;/span&gt;
+| &lt;span style="background:#dcedc8; padding:2px 5px; border-radius:3px;"&gt;재료&lt;/span&gt;
+| &lt;span style="background:#e1bee7; padding:2px 5px; border-radius:3px;"&gt;구조&lt;/span&gt;
+| &lt;span style="background:#ffccbc; padding:2px 5px; border-radius:3px;"&gt;설비&lt;/span&gt;
+| &lt;span style="background:#fff9c4; padding:2px 5px; border-radius:3px;"&gt;위치/시기&lt;/span&gt;
+|}
+
+{| class="wikitable" style="float:right; width:300px;"
+! colspan="2" | 법덕온천(法德溫泉) 및 호텔 기타 신축공사 개요
+|-
+| colspan="2" | (사진)
+|-
+! 내용
+| AI Manual Tagging
+|}
+
+법덕온천(法德溫泉) 및 호텔 기타 신축공사 개요
+소재지   &lt;span title="Location" style="background:#fff9c4;"&gt;경성부 번대방정(番大方町) 19·144·145·147번지&lt;/span&gt;
+부지 면적   &lt;span title="SiteArea" style="background:#eceff1;"&gt;6136평&lt;/span&gt;
+공정  &lt;span title="StartDate" style="background:#fff9c4;"&gt;1937년 8월&lt;/span&gt; 착공
+      &lt;span title="EndDate" style="background:#fff9c4;"&gt;1938년 10월&lt;/span&gt; 준공
+양식  일본식 및 서양식
+건물 면적 
+호텔 지하층 &lt;span title="TotalArea" style="background:#eceff1;"&gt;48,500평&lt;/span&gt;
+1층 &lt;span title="TotalArea" style="background:#eceff1;"&gt;150,795평&lt;/span&gt;
+2층 &lt;span title="TotalArea" style="background:#eceff1;"&gt;138,670평&lt;/span&gt;
+탑 &lt;span title="TotalArea" style="background:#eceff1;"&gt;11,333평&lt;/span&gt;
+연면적 &lt;span title="TotalArea" style="background:#eceff1;"&gt;335,298평&lt;/span&gt;
+온천장 반지하 &lt;span title="TotalArea" style="background:#eceff1;"&gt;48,766평&lt;/span&gt;
+1층 &lt;span title="TotalArea" style="background:#eceff1;"&gt;106,300평&lt;/span&gt;
+연면적 &lt;span title="TotalArea" style="background:#eceff1;"&gt;155,066평&lt;/span&gt;
+휴게소ㆍ식당 건평 &lt;span title="TotalArea" style="background:#eceff1;"&gt;48,250평&lt;/span&gt;
+문지기소[門番所]ㆍ사무소 건평 &lt;span title="TotalArea" style="background:#eceff1;"&gt;3,750평&lt;/span&gt;
+연결 복도 건평 &lt;span title="TotalArea" style="background:#eceff1;"&gt;29,400평&lt;/span&gt;
+총 연면적 &lt;span title="TotalArea" style="background:#eceff1;"&gt;571,764평&lt;/span&gt;
+건물 높이 
+호텔 단층 &lt;span title="Height" style="background:#eceff1;"&gt;14.0척&lt;/span&gt; (지반에서 주심도리 최상단까지)
+2층 &lt;span title="Height" style="background:#eceff1;"&gt;24.6~27.6척&lt;/span&gt; 동상(同上)
+최고부 &lt;span title="Height" style="background:#eceff1;"&gt;50.0척&lt;/span&gt;  동상
+온천장 일반 &lt;span title="Height" style="background:#eceff1;"&gt;23.0척&lt;/span&gt;  동상
+최고부 &lt;span title="Height" style="background:#eceff1;"&gt;33.0척&lt;/span&gt;  동상
+최고부 &lt;span title="Height" style="background:#eceff1;"&gt;13.0척&lt;/span&gt; 동상
+휴게소 최고부 &lt;span title="Height" style="background:#eceff1;"&gt;19.5척&lt;/span&gt; 동상
+사무소 일반 &lt;span title="Height" style="background:#eceff1;"&gt;10.6척&lt;/span&gt; 동상
+최고부 &lt;span title="Height" style="background:#eceff1;"&gt;13.6척&lt;/span&gt; 동상
+구조 
+호텔   &lt;span title="Structure" style="background:#e1bee7;"&gt;목조&lt;/span&gt; 일부 &lt;span title="Structure" style="background:#e1bee7;"&gt;벽돌 철근콘크리트조&lt;/span&gt;, 지붕 &lt;span title="Material" style="background:#dcedc8;"&gt;슬레이트&lt;/span&gt;, 창호 &lt;span title="Material" style="background:#dcedc8;"&gt;목조&lt;/span&gt; 바니시 및 페인트칠 마감
+온천장  &lt;span title="Structure" style="background:#e1bee7;"&gt;철근콘크리트조&lt;/span&gt; &lt;span title="Material" style="background:#dcedc8;"&gt;벽돌&lt;/span&gt; 붙임 벽, 지붕 평지붕 방수층 누름 &lt;span title="Material" style="background:#dcedc8;"&gt;신더 콘크리트&lt;/span&gt; &lt;span title="Material" style="background:#dcedc8;"&gt;모르타르&lt;/span&gt; 마름모 줄눈 바름 마감, 창호 &lt;span title="Material" style="background:#dcedc8;"&gt;목조&lt;/span&gt; 바니시 및 페인트칠 마감
+온천장   &lt;span title="Structure" style="background:#e1bee7;"&gt;철근콘크리트조&lt;/span&gt; &lt;span title="Material" style="background:#dcedc8;"&gt;벽돌&lt;/span&gt; 붙임 벽, 지붕 평지붕 방수층 누름 &lt;span title="Material" style="background:#dcedc8;"&gt;신더 콘크리트&lt;/span&gt; &lt;span title="Material" style="background:#dcedc8;"&gt;모르타르&lt;/span&gt; 마름모 줄눈 바름 마감, 창호 외부창 &lt;span title="Material" style="background:#dcedc8;"&gt;스틸 새시&lt;/span&gt;, 그 외 동상(同上)
+휴게소 및 문지기소, 연결 복도  &lt;span title="Structure" style="background:#e1bee7;"&gt;목조&lt;/span&gt;, 지붕 &lt;span title="Material" style="background:#dcedc8;"&gt;아연판&lt;/span&gt; 기와가락 잇기 페인트칠 마감, 창호 &lt;span title="Material" style="background:#dcedc8;"&gt;목조&lt;/span&gt;
+외부 마감 
+호텔   허리 주변   &lt;span title="Material" style="background:#dcedc8;"&gt;인조석&lt;/span&gt; 씻어내기 &lt;span title="Material" style="background:#dcedc8;"&gt;카라크리트(カラクリート)&lt;/span&gt; 분사 마감, 목ㆍ철부 페인트칠 마감
+온천장 및 기타 부속건물은 모두 호텔에 준함
+내부 마감 
+호텔  현관 바닥과 허리 부분 &lt;span title="Material" style="background:#dcedc8;"&gt;모자이크 타일&lt;/span&gt; 붙임, 벽 &lt;span title="Material" style="background:#dcedc8;"&gt;세메팔트텍스&lt;/span&gt;, 천장 &lt;span title="Material" style="background:#dcedc8;"&gt;회반죽&lt;/span&gt;칠 마감
+복도 객실 각 실 모두  바닥 &lt;span title="Material" style="background:#dcedc8;"&gt;연갑판(椽甲板)&lt;/span&gt;, 쪽모이 세공 &lt;span title="Material" style="background:#dcedc8;"&gt;리놀륨&lt;/span&gt; &lt;span title="Material" style="background:#dcedc8;"&gt;다다미&lt;/span&gt; 깔기, 벽 &lt;span title="Material" style="background:#dcedc8;"&gt;세메팔트텍스&lt;/span&gt; &lt;span title="Material" style="background:#dcedc8;"&gt;회반죽&lt;/span&gt;칠, &lt;span title="Material" style="background:#dcedc8;"&gt;사벽&lt;/span&gt;, 천장 사오부치 판천장 및 &lt;span title="Material" style="background:#dcedc8;"&gt;회반죽&lt;/span&gt;칠 텍스 붙임 마감
+온천장   바닥 및 허리 부분 &lt;span title="Material" style="background:#dcedc8;"&gt;모자이크 타일&lt;/span&gt; 붙임 및 &lt;span title="Material" style="background:#dcedc8;"&gt;연갑판&lt;/span&gt; 붙임,  계단 바닥 난간 &lt;span title="Material" style="background:#dcedc8;"&gt;테라조&lt;/span&gt;, 벽 및 천장 &lt;span title="Material" style="background:#dcedc8;"&gt;회반죽&lt;/span&gt; 및 &lt;span title="Material" style="background:#dcedc8;"&gt;방습 플라스터&lt;/span&gt;칠 마감, 일부 바닥 및 벽 &lt;span title="Material" style="background:#dcedc8;"&gt;모르타르&lt;/span&gt;칠 마감, 각 부속건물은 호텔에 준함
+&lt;span title="Facility" style="background:#ffccbc;"&gt;온천수[給泉] 공급&lt;/span&gt; 온천장 건물에서 약 100m 지점에 깊이 830척으로 우물을 파고[鑿井], &lt;span title="Facility" style="background:#ffccbc;"&gt;전동 펌프&lt;/span&gt;로 지하실 &lt;span title="Facility" style="background:#ffccbc;"&gt;보일러실&lt;/span&gt;로 끌어들여 적당한 온도로 가열하여 &lt;span title="Facility" style="background:#ffccbc;"&gt;압력 탱크&lt;/span&gt;를 통해 남녀 공중목욕탕과 호텔 가족탕에 각각 급탕함
+&lt;span title="Facility" style="background:#ffccbc;"&gt;우물수 공급&lt;/span&gt; 야외 각소에 3개소에 우물을 파고 &lt;span title="Facility" style="background:#ffccbc;"&gt;전동 펌프&lt;/span&gt;와 &lt;span title="Facility" style="background:#ffccbc;"&gt;압력탱크&lt;/span&gt;를 설치하여, 각 욕실ㆍ주방ㆍ변소와 그 외 주요 장소에 자동적으로 급수함
+&lt;span title="Facility" style="background:#ffccbc;"&gt;난방&lt;/span&gt; &lt;span title="Facility" style="background:#ffccbc;"&gt;저압증기난방&lt;/span&gt;으로 하고 지하실에 섹셔널 &lt;span title="Facility" style="background:#ffccbc;"&gt;보일러&lt;/span&gt; 급탕용 모두 2기를 설치하고, 각 실 라디에이터에 송기(送氣) 난방함
+&lt;span title="Facility" style="background:#ffccbc;"&gt;위생&lt;/span&gt; 각 화장실 &lt;span title="Facility" style="background:#ffccbc;"&gt;수세식&lt;/span&gt;, 야외에 오오노식 &lt;span title="Facility" style="background:#ffccbc;"&gt;정화조&lt;/span&gt; 2기 설치, 소독 후 하수로 방류
+&lt;span title="Facility" style="background:#ffccbc;"&gt;전등&lt;/span&gt; 기타 전등은 모두 은폐 공사하고, 기구는 각 실에 따라 기물을 채용하고, 각 실 모두 콘센트와 스위치를 부착함
+&lt;span title="Facility" style="background:#ffccbc;"&gt;전화&lt;/span&gt;는 1층 사무실로 인입하고, 각 실에서 사무실과 용담(用談) 가능하도록 설비함
+&lt;span title="Facility" style="background:#ffccbc;"&gt;전령&lt;/span&gt;  각 실에 누름 버튼을 설치하고, 여직원[女中] 대기실의 표시기로 통하도록 설비함
+기타   장내는 가족용 유원장(遊園場)으로 하고, 각종 유희도구, 풀장 등도 설비함
+공사 관계 
+건축주  법덕온천주식회사
+설계감독  &lt;span title="Architect" style="background:#bbdefb;"&gt;옥전(玉田)건축사무소&lt;/span&gt;
+청부  &lt;span title="Builder" style="background:#bbdefb;"&gt;장판정오랑(長坂正五郞)&lt;/span&gt;
+난방 위생  &lt;span title="Supplier" style="background:#bbdefb;"&gt;원전공무점(原田工務店)&lt;/span&gt;
+전기 기타  &lt;span title="Supplier" style="background:#bbdefb;"&gt;도전상회(島田商會)&lt;/span&gt;
+가구 장식  &lt;span title="Supplier" style="background:#bbdefb;"&gt;정자옥(丁字屋)&lt;/span&gt;
+
+[[분류:신축공사개요]]</text>
+      <sha1>ieuxbvkpfijk4icwjqxpz7c5odzb238</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>19집 4호 태화기독교사회관</title>
+    <ns>0</ns>
+    <id>41</id>
+    <revision>
+      <id>133</id>
+      <timestamp>2026-01-07T04:58:06Z</timestamp>
+      <contributor>
+        <username>Hajunlee</username>
+        <id>3</id>
+      </contributor>
+      <comment>새 문서: __NOTOC__ {| class="wikitable" style="width:100%; text-align:center; font-size:90%; margin-bottom:15px;" ! colspan="7" style="background:#f0f0f0;" | 데이터 태깅 범례 (Legend) |- | &lt;span style="background:#eceff1; padding:2px 5px; border-radius:3px;"&gt;건물 정보&lt;/span&gt; | &lt;span style="background:#b0bec5; padding:2px 5px; border-radius:3px;"&gt;공사비&lt;/span&gt; | &lt;span style="background:#bbdefb; padding:2px 5px; border-radius:3px;"&gt;인물/회사&lt;/span&gt; | &lt;span style="backgrou...</comment>
+      <origin>133</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8904" sha1="6zil59mf2gux2tms0nkiolhw7cjtmo2" xml:space="preserve">__NOTOC__
+{| class="wikitable" style="width:100%; text-align:center; font-size:90%; margin-bottom:15px;"
+! colspan="7" style="background:#f0f0f0;" | 데이터 태깅 범례 (Legend)
+|-
+| &lt;span style="background:#eceff1; padding:2px 5px; border-radius:3px;"&gt;건물 정보&lt;/span&gt;
+| &lt;span style="background:#b0bec5; padding:2px 5px; border-radius:3px;"&gt;공사비&lt;/span&gt;
+| &lt;span style="background:#bbdefb; padding:2px 5px; border-radius:3px;"&gt;인물/회사&lt;/span&gt;
+| &lt;span style="background:#dcedc8; padding:2px 5px; border-radius:3px;"&gt;재료&lt;/span&gt;
+| &lt;span style="background:#e1bee7; padding:2px 5px; border-radius:3px;"&gt;구조&lt;/span&gt;
+| &lt;span style="background:#ffccbc; padding:2px 5px; border-radius:3px;"&gt;설비&lt;/span&gt;
+| &lt;span style="background:#fff9c4; padding:2px 5px; border-radius:3px;"&gt;위치/시기&lt;/span&gt;
+|}
+
+{| class="wikitable" style="float:right; width:300px;"
+! colspan="2" | 태화기독교사회관 신축공사 개요
+|-
+| colspan="2" | (사진)
+|-
+! 내용
+| AI Manual Tagging
+|}
+
+태화기독교사회관 신축공사 개요
+위치　　　&lt;span title="Location" style="background:#fff9c4;"&gt;경성부 인사정(仁寺町) 194-사(杜)&lt;/span&gt;
+양식　　　양선 절충식(洋鮮折衷式)
+구조 개요　외벽 일부는 &lt;span title="Structure" style="background:#e1bee7;"&gt;석재 및 벽돌 혼합 구조&lt;/span&gt;로 하고, 바닥판은 &lt;span title="Structure" style="background:#e1bee7;"&gt;철근콘크리트조&lt;/span&gt;, 외창은 &lt;span title="Material" style="background:#dcedc8;"&gt;스틸 새시&lt;/span&gt;, 지붕은 &lt;span title="Material" style="background:#dcedc8;"&gt;조선기와&lt;/span&gt;지붕
+건물 총면적　&lt;span title="TotalArea" style="background:#eceff1;"&gt;718.00평&lt;/span&gt;
+지하층　&lt;span title="TotalArea" style="background:#eceff1;"&gt;126.00평&lt;/span&gt;
+1층　&lt;span title="TotalArea" style="background:#eceff1;"&gt;266.00평&lt;/span&gt;
+2층　&lt;span title="TotalArea" style="background:#eceff1;"&gt;266.00평&lt;/span&gt;
+옥상층　&lt;span title="TotalArea" style="background:#eceff1;"&gt;60.00평&lt;/span&gt;
+부지 면적　&lt;span title="SiteArea" style="background:#eceff1;"&gt;2,030.00평&lt;/span&gt;
+건물 높이(처마 높이)　&lt;span title="Height" style="background:#eceff1;"&gt;23.50척(남면)&lt;/span&gt;　&lt;span title="Height" style="background:#eceff1;"&gt;29.7척(북면)&lt;/span&gt;
+최고부　&lt;span title="Height" style="background:#eceff1;"&gt;43.00척&lt;/span&gt;
+외부 마감　하부 &lt;span title="Material" style="background:#dcedc8;"&gt;화강석&lt;/span&gt; 막돌쌓기[亂目地積], 상부 &lt;span title="Material" style="background:#dcedc8;"&gt;벽돌&lt;/span&gt; 쌓기에 &lt;span title="Material" style="background:#dcedc8;"&gt;백시멘트&lt;/span&gt; 도장
+     
+내부 마감표
+실명　  바닥　  허리 부분  　벽　  천장　  기타
+현관　 &lt;span title="Material" style="background:#dcedc8;"&gt;인조석&lt;/span&gt; 물갈기　 &lt;span title="Material" style="background:#dcedc8;"&gt;타일&lt;/span&gt; 　황색 &lt;span title="Material" style="background:#dcedc8;"&gt;회반죽&lt;/span&gt; 　황색 &lt;span title="Material" style="background:#dcedc8;"&gt;회반죽&lt;/span&gt;
+홀　  같음  　&lt;span title="Material" style="background:#dcedc8;"&gt;마포&lt;/span&gt; 붙임 페인트  　같음 　&lt;span title="Material" style="background:#dcedc8;"&gt;타이텍스(タイテキス)&lt;/span&gt;
+복도　같음　같음　같음　같음
+각 사무실　&lt;span title="Material" style="background:#dcedc8;"&gt;아피톤&lt;/span&gt;　같음　같음　같음　각 붙박이 선반은 &lt;span title="Material" style="background:#dcedc8;"&gt;나왕&lt;/span&gt;
+사교실　같음　같음　같음　같음　&lt;span title="Material" style="background:#dcedc8;"&gt;타일&lt;/span&gt; 및 &lt;span title="Material" style="background:#dcedc8;"&gt;오크재&lt;/span&gt; &lt;span title="Facility" style="background:#ffccbc;"&gt;벽난로&lt;/span&gt;
+유희실　&lt;span title="Material" style="background:#dcedc8;"&gt;오크&lt;/span&gt;　 &lt;span title="Material" style="background:#dcedc8;"&gt;마포&lt;/span&gt; 붙임 페인트 마감　 황색 &lt;span title="Material" style="background:#dcedc8;"&gt;회반죽&lt;/span&gt;　&lt;span title="Material" style="background:#dcedc8;"&gt;타이텍스&lt;/span&gt;　 붙박이 선반은 &lt;span title="Material" style="background:#dcedc8;"&gt;나왕재&lt;/span&gt;
+탁아실　같음　같음　같음　같음　같음
+배유실(配乳室)　&lt;span title="Material" style="background:#dcedc8;"&gt;인조석&lt;/span&gt; 물갈기  &lt;span title="Material" style="background:#dcedc8;"&gt;타일&lt;/span&gt; 　같음　&lt;span title="Material" style="background:#dcedc8;"&gt;회반죽&lt;/span&gt;　같음
+욕실　같음　&lt;span title="Material" style="background:#dcedc8;"&gt;인조석&lt;/span&gt; 물갈기 　같음　같음
+각 변소 　같음　&lt;span title="Material" style="background:#dcedc8;"&gt;타일&lt;/span&gt;　같음　같음
+예배당　&lt;span title="Material" style="background:#dcedc8;"&gt;아피톤&lt;/span&gt;　&lt;span title="Material" style="background:#dcedc8;"&gt;카제인텍스&lt;/span&gt;　&lt;span title="Material" style="background:#dcedc8;"&gt;카제인텍스&lt;/span&gt;　&lt;span title="Material" style="background:#dcedc8;"&gt;목재&lt;/span&gt; 노출 장식　스크린 등 &lt;span title="Material" style="background:#dcedc8;"&gt;오크재&lt;/span&gt;
+각 클럽실　같음　&lt;span title="Material" style="background:#dcedc8;"&gt;마포&lt;/span&gt; 붙임 페인트 마감　 황색 &lt;span title="Material" style="background:#dcedc8;"&gt;회반죽&lt;/span&gt;　&lt;span title="Material" style="background:#dcedc8;"&gt;타이텍스&lt;/span&gt;
+요리실　&lt;span title="Material" style="background:#dcedc8;"&gt;인조석&lt;/span&gt; 물갈기  &lt;span title="Material" style="background:#dcedc8;"&gt;타일&lt;/span&gt;　같음　같음　조리대는 &lt;span title="Material" style="background:#dcedc8;"&gt;테라조&lt;/span&gt;
+음악연습실　&lt;span title="Material" style="background:#dcedc8;"&gt;아피톤&lt;/span&gt;　-　같음　&lt;span title="Material" style="background:#dcedc8;"&gt;타이텍스&lt;/span&gt;　방음벽 및 방음문
+독서실　같음 　&lt;span title="Material" style="background:#dcedc8;"&gt;마포&lt;/span&gt; 붙임 페인트 마감　 같음 　&lt;span title="Material" style="background:#dcedc8;"&gt;타이텍스&lt;/span&gt;
+기도실　같음　같음　같음　&lt;span title="Material" style="background:#dcedc8;"&gt;타이텍스&lt;/span&gt;　창문은 &lt;span title="Material" style="background:#dcedc8;"&gt;스테인드글라스&lt;/span&gt;
+     
+각 계단은 &lt;span title="Structure" style="background:#e1bee7;"&gt;철근콘크리트조&lt;/span&gt;로 하고 &lt;span title="Material" style="background:#dcedc8;"&gt;타일&lt;/span&gt; 미끄럼 방지를 사용하며, 색 &lt;span title="Material" style="background:#dcedc8;"&gt;인조석&lt;/span&gt; 물갈기 마감으로 함.
+조명　&lt;span title="Facility" style="background:#ffccbc;"&gt;전등&lt;/span&gt;　220개
+&lt;span title="Facility" style="background:#ffccbc;"&gt;위생설비&lt;/span&gt;　변소 5개소, 욕실 2개소로 하고 오물 &lt;span title="Facility" style="background:#ffccbc;"&gt;정화조&lt;/span&gt; 설치
+&lt;span title="Facility" style="background:#ffccbc;"&gt;난방설비&lt;/span&gt;　&lt;span title="Supplier" style="background:#bbdefb;"&gt;고사(高砂)&lt;/span&gt;기관 및 스토커에 의한 2관식 &lt;span title="Facility" style="background:#ffccbc;"&gt;증기난방&lt;/span&gt;
+기공　&lt;span title="StartDate" style="background:#fff9c4;"&gt;1938년 3월&lt;/span&gt;
+준공　&lt;span title="EndDate" style="background:#fff9c4;"&gt;1939년 7월&lt;/span&gt;
+건축주　태화기독교사회관
+설계시공　&lt;span title="Architect" style="background:#bbdefb;"&gt;보리즈 경성건축사무소&lt;/span&gt;
+전등, 전력공사　&lt;span title="Supplier" style="background:#bbdefb;"&gt;장전기상회(張電氣商會)&lt;/span&gt;
+위생, 난방　&lt;span title="Supplier" style="background:#bbdefb;"&gt;중원상회(中原商會)&lt;/span&gt;
+     
+본 건물 설계자로서 독자 여러분께 한 말씀 드리고자 한다. “양식”을 기입할 때 고민하지 않을 수 없었다. 솔직히 말하면 오히려 무양식이라고 할 수 있다 - 적어도 외부만은 예산의 관계도 있었기 때문에 가장 중요한 예배당만은 “고딕”을 안타까워하며 모방했다.
+그런데 경성 한복판에 이렇게 기상천외한 건물을 지은 이유는 매우 간단했다. 우선 현장에 있던 옛 조선 건물의 기와가 팔아버리기에는 너무 아까웠다. 또한 그 기와를 이용하여 현대 문화가 요구하는 내부 설비를 하려면 여러 가지 문제가 있었다. 자칫하면 ‘아츠바바(あつばば)’가 될지도 모른다는 걱정도 있었다 — 결국 ‘아츠바바’가 되었지만.
+또한 필자는 뒷골목에서 볼 수 있는 조선식 담장이나 아래채[下屋] 등에 애착을 가지고 있어 그것을 뭔가에 도입해 보고 싶었다. 그러나 완성해 보니 비슷하면서도 다르게 된 것은 보시는 대로이다.
+자, 이 ‘양식’이 우리 건축가에게 그리도 중요한 것일까. 그 지역에서 나는 재료로 그 지역 사람들이 친숙함을 느낄 수 있는 집을 짓는 것만으로도 충분하지 않을까.
+강윤생
+
+[[분류:신축공사개요]]</text>
+      <sha1>6zil59mf2gux2tms0nkiolhw7cjtmo2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>19집 8호 평안남도청사</title>
+    <ns>0</ns>
+    <id>42</id>
+    <revision>
+      <id>134</id>
+      <timestamp>2026-01-07T04:59:28Z</timestamp>
+      <contributor>
+        <username>Hajunlee</username>
+        <id>3</id>
+      </contributor>
+      <comment>새 문서: __NOTOC__ {| class="wikitable" style="width:100%; text-align:center; font-size:90%; margin-bottom:15px;" ! colspan="7" style="background:#f0f0f0;" | 데이터 태깅 범례 (Legend) |- | &lt;span style="background:#eceff1; padding:2px 5px; border-radius:3px;"&gt;건물 정보&lt;/span&gt; | &lt;span style="background:#b0bec5; padding:2px 5px; border-radius:3px;"&gt;공사비&lt;/span&gt; | &lt;span style="background:#bbdefb; padding:2px 5px; border-radius:3px;"&gt;인물/회사&lt;/span&gt; | &lt;span style="backgrou...</comment>
+      <origin>134</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="12660" sha1="4nm00f191q1wakdnh286cw04y8phf3p" xml:space="preserve">__NOTOC__
+{| class="wikitable" style="width:100%; text-align:center; font-size:90%; margin-bottom:15px;"
+! colspan="7" style="background:#f0f0f0;" | 데이터 태깅 범례 (Legend)
+|-
+| &lt;span style="background:#eceff1; padding:2px 5px; border-radius:3px;"&gt;건물 정보&lt;/span&gt;
+| &lt;span style="background:#b0bec5; padding:2px 5px; border-radius:3px;"&gt;공사비&lt;/span&gt;
+| &lt;span style="background:#bbdefb; padding:2px 5px; border-radius:3px;"&gt;인물/회사&lt;/span&gt;
+| &lt;span style="background:#dcedc8; padding:2px 5px; border-radius:3px;"&gt;재료&lt;/span&gt;
+| &lt;span style="background:#e1bee7; padding:2px 5px; border-radius:3px;"&gt;구조&lt;/span&gt;
+| &lt;span style="background:#ffccbc; padding:2px 5px; border-radius:3px;"&gt;설비&lt;/span&gt;
+| &lt;span style="background:#fff9c4; padding:2px 5px; border-radius:3px;"&gt;위치/시기&lt;/span&gt;
+|}
+
+{| class="wikitable" style="float:right; width:300px;"
+! colspan="2" | 평안남도청 청사 신축공사 개요
+|-
+| colspan="2" | (사진)
+|-
+! 내용
+| AI Manual Tagging
+|}
+
+평안남도청 청사 신축공사 개요
+양식　근세식
+규모　&lt;span title="Structure" style="background:#e1bee7;"&gt;철근콘크리트&lt;/span&gt; 및 &lt;span title="Structure" style="background:#e1bee7;"&gt;벽돌&lt;/span&gt; 병용 &lt;span title="Floors" style="background:#eceff1;"&gt;3층&lt;/span&gt; 건물
+지하실　&lt;span title="TotalArea" style="background:#eceff1;"&gt;92평 125&lt;/span&gt;
+1층　&lt;span title="TotalArea" style="background:#eceff1;"&gt;493평 1225&lt;/span&gt;
+2층　&lt;span title="TotalArea" style="background:#eceff1;"&gt;472평 1225&lt;/span&gt;
+3층　&lt;span title="TotalArea" style="background:#eceff1;"&gt;42평 1285&lt;/span&gt;
+펜트하우스　&lt;span title="TotalArea" style="background:#eceff1;"&gt;6평&lt;/span&gt;
+연면적　&lt;span title="TotalArea" style="background:#eceff1;"&gt;1,535평 49&lt;/span&gt;
+건물 최고부 높이　지반 위 &lt;span title="Height" style="background:#eceff1;"&gt;54척&lt;/span&gt;
+외장　정면 및 측면벽 &lt;span title="Material" style="background:#dcedc8;"&gt;타일&lt;/span&gt; 붙임, 후면 &lt;span title="Material" style="background:#dcedc8;"&gt;모르타르&lt;/span&gt; 스프레이 마감, 허리 부분 &lt;span title="Material" style="background:#dcedc8;"&gt;화강석&lt;/span&gt; 잔다듬, 파라펫 &lt;span title="Material" style="background:#dcedc8;"&gt;인조석&lt;/span&gt; 씻어내기
+정면　차대 주변 &lt;span title="Material" style="background:#dcedc8;"&gt;캐스트스톤&lt;/span&gt; 마감
+외창　&lt;span title="Material" style="background:#dcedc8;"&gt;스틸 새시&lt;/span&gt;
+내장
+실명　 바닥　 걸레받이 　측벽 상부 　측벽 허리 부분　 천장 　기타
+차대　 &lt;span title="Material" style="background:#dcedc8;"&gt;콩자갈콘크리트&lt;/span&gt; 씻어내기　 &lt;span title="Material" style="background:#dcedc8;"&gt;화강석&lt;/span&gt; 잔다듬 　&lt;span title="Material" style="background:#dcedc8;"&gt;캐스트스톤&lt;/span&gt; 　&lt;span title="Material" style="background:#dcedc8;"&gt;플라스터&lt;/span&gt; &lt;span title="Material" style="background:#dcedc8;"&gt;페인트&lt;/span&gt; 탐폰마감　 연석 &lt;span title="Material" style="background:#dcedc8;"&gt;화강석&lt;/span&gt; 잔다듬
+현관　 소형&lt;span title="Material" style="background:#dcedc8;"&gt;타일&lt;/span&gt;붙임  소형&lt;span title="Material" style="background:#dcedc8;"&gt;타일&lt;/span&gt;붙임  &lt;span title="Material" style="background:#dcedc8;"&gt;플라스터&lt;/span&gt;　소형&lt;span title="Material" style="background:#dcedc8;"&gt;타일&lt;/span&gt;붙임　&lt;span title="Material" style="background:#dcedc8;"&gt;플라스터&lt;/span&gt;
+홀[廣間] 1, 2, 3층　같음　같음　같음　같음　같음
+복도 1, 2, 3층　같음　&lt;span title="Material" style="background:#dcedc8;"&gt;타일&lt;/span&gt;붙임 　같음　&lt;span title="Material" style="background:#dcedc8;"&gt;모르타르스톤코트&lt;/span&gt;　같음
+중앙대계단　디딤면 챌면 모두 &lt;span title="Material" style="background:#dcedc8;"&gt;인조석&lt;/span&gt; 씻어내기　 소형&lt;span title="Material" style="background:#dcedc8;"&gt;타일&lt;/span&gt;붙임　같음　소형&lt;span title="Material" style="background:#dcedc8;"&gt;타일&lt;/span&gt;붙임　같음　손잡이 &lt;span title="Material" style="background:#dcedc8;"&gt;테라조&lt;/span&gt; 안쪽 &lt;span title="Material" style="background:#dcedc8;"&gt;인조석&lt;/span&gt; 씻어내기 외부 &lt;span title="Material" style="background:#dcedc8;"&gt;플라스터&lt;/span&gt;
+양 박공측 계단　같음　&lt;span title="Material" style="background:#dcedc8;"&gt;타일&lt;/span&gt;붙임　같음　&lt;span title="Material" style="background:#dcedc8;"&gt;모르타르스톤코트&lt;/span&gt;　같음　손잡이 &lt;span title="Material" style="background:#dcedc8;"&gt;테라조&lt;/span&gt; 안쪽 &lt;span title="Material" style="background:#dcedc8;"&gt;인조석&lt;/span&gt; 씻어내기 외부 &lt;span title="Material" style="background:#dcedc8;"&gt;플라스터&lt;/span&gt;
+세면 및 변소 1, 2층 　&lt;span title="Material" style="background:#dcedc8;"&gt;타일&lt;/span&gt;붙임　같음　같음　&lt;span title="Material" style="background:#dcedc8;"&gt;타일&lt;/span&gt;붙임　&lt;span title="Material" style="background:#dcedc8;"&gt;메탈실링&lt;/span&gt; &lt;span title="Material" style="background:#dcedc8;"&gt;페인트&lt;/span&gt;칠　 3층 천장 &lt;span title="Material" style="background:#dcedc8;"&gt;플라스터&lt;/span&gt;칠
+일반 사무실 기타 1, 2, 3층　 &lt;span title="Material" style="background:#dcedc8;"&gt;리놀륨&lt;/span&gt;깔기　같음　같음　&lt;span title="Material" style="background:#dcedc8;"&gt;플라스터&lt;/span&gt; 수성도료칠　 &lt;span title="Material" style="background:#dcedc8;"&gt;플라스터&lt;/span&gt;
+과장실 1, 2, 3층　같음　같음　같음　같음　같음
+지사실 2층　쪽모이 세공  &lt;span title="Material" style="background:#dcedc8;"&gt;목재&lt;/span&gt;　&lt;span title="Material" style="background:#dcedc8;"&gt;벽지&lt;/span&gt;바름　&lt;span title="Material" style="background:#dcedc8;"&gt;벽지&lt;/span&gt;바름　&lt;span title="Material" style="background:#dcedc8;"&gt;플라스터&lt;/span&gt; &lt;span title="Material" style="background:#dcedc8;"&gt;페인트&lt;/span&gt; 탐폰마감
+지사 응접실　같음　같음　같음　&lt;span title="Material" style="background:#dcedc8;"&gt;플라스터&lt;/span&gt; &lt;span title="Material" style="background:#dcedc8;"&gt;페인트&lt;/span&gt; 탐폰마감　가공 벽 &lt;span title="Material" style="background:#dcedc8;"&gt;페인트&lt;/span&gt;마감　같음
+특별 예비실　같음　같음　같음　&lt;span title="Material" style="background:#dcedc8;"&gt;벽지&lt;/span&gt;바름　&lt;span title="Material" style="background:#dcedc8;"&gt;벽지&lt;/span&gt;바름　&lt;span title="Material" style="background:#dcedc8;"&gt;플라스터&lt;/span&gt; 수성 &lt;span title="Material" style="background:#dcedc8;"&gt;페인트&lt;/span&gt; 탐폰칠
+참여관실 2층　&lt;span title="Material" style="background:#dcedc8;"&gt;리놀륨&lt;/span&gt; 깔기 　&lt;span title="Material" style="background:#dcedc8;"&gt;타일&lt;/span&gt;붙임　 가공벽 &lt;span title="Material" style="background:#dcedc8;"&gt;페인트&lt;/span&gt;마감　가공벽 &lt;span title="Material" style="background:#dcedc8;"&gt;페인트&lt;/span&gt;마감　&lt;span title="Material" style="background:#dcedc8;"&gt;플라스터&lt;/span&gt; 수성 &lt;span title="Material" style="background:#dcedc8;"&gt;페인트&lt;/span&gt; 탐폰칠
+부장실　같음　같음　같음　같음　같음
+대기실 2, 3층　같음　같음　&lt;span title="Material" style="background:#dcedc8;"&gt;플라스터&lt;/span&gt;　가공벽　&lt;span title="Material" style="background:#dcedc8;"&gt;플라스터&lt;/span&gt;
+소회의실 3층　&lt;span title="Material" style="background:#dcedc8;"&gt;플로어링블록&lt;/span&gt;깔기　 &lt;span title="Material" style="background:#dcedc8;"&gt;목재&lt;/span&gt; 　&lt;span title="Material" style="background:#dcedc8;"&gt;플라스터&lt;/span&gt;감마칠　&lt;span title="Material" style="background:#dcedc8;"&gt;마대&lt;/span&gt;붙임 가공&lt;span title="Material" style="background:#dcedc8;"&gt;페인트&lt;/span&gt;칠　&lt;span title="Material" style="background:#dcedc8;"&gt;플라스터&lt;/span&gt;감마칠
+양 박공측 계단 입구 　&lt;span title="Material" style="background:#dcedc8;"&gt;타일&lt;/span&gt;붙임　&lt;span title="Material" style="background:#dcedc8;"&gt;타일&lt;/span&gt;붙임　&lt;span title="Material" style="background:#dcedc8;"&gt;플라스터&lt;/span&gt;　&lt;span title="Material" style="background:#dcedc8;"&gt;모르타르스톤코트&lt;/span&gt;　&lt;span title="Material" style="background:#dcedc8;"&gt;플라스터&lt;/span&gt;
+탑 계단　 디딤면 챌면 모두 &lt;span title="Material" style="background:#dcedc8;"&gt;모르타르&lt;/span&gt;칠　&lt;span title="Material" style="background:#dcedc8;"&gt;모르타르&lt;/span&gt;칠　같음　&lt;span title="Material" style="background:#dcedc8;"&gt;모르타르&lt;/span&gt;칠　같음
+숙직실 1층　&lt;span title="Material" style="background:#dcedc8;"&gt;다다미&lt;/span&gt;깔기　&lt;span title="Material" style="background:#dcedc8;"&gt;목제&lt;/span&gt;　같음　&lt;span title="Material" style="background:#dcedc8;"&gt;플라스터&lt;/span&gt;　같음　답입(踏込) &lt;span title="Material" style="background:#dcedc8;"&gt;리놀륨&lt;/span&gt;깔기〇〇&lt;span title="Material" style="background:#dcedc8;"&gt;타일&lt;/span&gt;붙임〇〇수성&lt;span title="Material" style="background:#dcedc8;"&gt;페인트&lt;/span&gt;칠
+전지실 지하실　&lt;span title="Material" style="background:#dcedc8;"&gt;아스팔트&lt;/span&gt;칠　&lt;span title="Material" style="background:#dcedc8;"&gt;아스팔트&lt;/span&gt;칠　&lt;span title="Material" style="background:#dcedc8;"&gt;아스팔트&lt;/span&gt;칠　&lt;span title="Material" style="background:#dcedc8;"&gt;아스팔트&lt;/span&gt;칠　&lt;span title="Material" style="background:#dcedc8;"&gt;아스팔트&lt;/span&gt;칠　답입(踏込) &lt;span title="Material" style="background:#dcedc8;"&gt;리놀륨&lt;/span&gt;깔기〇〇&lt;span title="Material" style="background:#dcedc8;"&gt;타일&lt;/span&gt;붙임〇〇수성&lt;span title="Material" style="background:#dcedc8;"&gt;페인트&lt;/span&gt;칠
+전기실 및 보일러실　&lt;span title="Material" style="background:#dcedc8;"&gt;모르타르&lt;/span&gt;칠　 &lt;span title="Material" style="background:#dcedc8;"&gt;모르타르&lt;/span&gt;칠 　&lt;span title="Material" style="background:#dcedc8;"&gt;모르타르&lt;/span&gt;칠　&lt;span title="Material" style="background:#dcedc8;"&gt;모르타르&lt;/span&gt;칠 　&lt;span title="Material" style="background:#dcedc8;"&gt;플라스터&lt;/span&gt;
+욕실, 창고, 석탄창고, 지하 　같음　같음　같음　같음　&lt;span title="Material" style="background:#dcedc8;"&gt;모르타르&lt;/span&gt;칠
+탕비장 지하　같음　같음　&lt;span title="Material" style="background:#dcedc8;"&gt;플라스터&lt;/span&gt;　같음　&lt;span title="Material" style="background:#dcedc8;"&gt;플라스터&lt;/span&gt;
+소사실 지하　&lt;span title="Material" style="background:#dcedc8;"&gt;다다미&lt;/span&gt;깔기　　&lt;span title="Material" style="background:#dcedc8;"&gt;회반죽&lt;/span&gt;칠　&lt;span title="Material" style="background:#dcedc8;"&gt;회반죽&lt;/span&gt;칠　같음
+탈의실 지하　식판(拭板)깔기　&lt;span title="Material" style="background:#dcedc8;"&gt;목제&lt;/span&gt;　&lt;span title="Material" style="background:#dcedc8;"&gt;플라스터&lt;/span&gt;　&lt;span title="Material" style="background:#dcedc8;"&gt;플라스터&lt;/span&gt;  수성&lt;span title="Material" style="background:#dcedc8;"&gt;페인트&lt;/span&gt;칠　같음
+지붕　&lt;span title="Structure" style="background:#e1bee7;"&gt;철근콘크리트조&lt;/span&gt; 평지붕 방수층 깔기 콘크리트블록 깔기
+설비
+&lt;span title="Facility" style="background:#ffccbc;"&gt;난방&lt;/span&gt;　&lt;span title="Facility" style="background:#ffccbc;"&gt;중력식 증기난방&lt;/span&gt;
+
+화장실　&lt;span title="Facility" style="background:#ffccbc;"&gt;수세식 오수 정화조&lt;/span&gt;
+&lt;span title="Facility" style="background:#ffccbc;"&gt;전기&lt;/span&gt;　&lt;span title="Facility" style="background:#ffccbc;"&gt;전등&lt;/span&gt; 270개
+&lt;span title="Facility" style="background:#ffccbc;"&gt;시계&lt;/span&gt;　어미시계 1개, 자시계 52개
+&lt;span title="Facility" style="background:#ffccbc;"&gt;전화&lt;/span&gt;　자동식 100회선 67개
+&lt;span title="Facility" style="background:#ffccbc;"&gt;전기종&lt;/span&gt;　시보 전령 6개, 출퇴근 보지기 10개, 호출 38개
+기공　&lt;span title="StartDate" style="background:#fff9c4;"&gt;1937년 9월 19일&lt;/span&gt;
+준공　&lt;span title="EndDate" style="background:#fff9c4;"&gt;1939년 8월 15일&lt;/span&gt;
+공사비　건축비 &lt;span title="Cost" style="background:#b0bec5;"&gt;267,000&lt;/span&gt;, 난방위생비 &lt;span title="Cost" style="background:#b0bec5;"&gt;69,000&lt;/span&gt;, 전기설비비 &lt;span title="Cost" style="background:#b0bec5;"&gt;36,000&lt;/span&gt;
+공사 관계자
+설계　&lt;span title="Architect" style="background:#bbdefb;"&gt;총독부 회계과 영선계&lt;/span&gt;
+시공　건축　&lt;span title="Builder" style="background:#bbdefb;"&gt;다전공무점(多田工務店)&lt;/span&gt;
+난방위생　&lt;span title="Supplier" style="background:#bbdefb;"&gt;경성 동구(東口)&lt;/span&gt;
+전기　&lt;span title="Supplier" style="background:#bbdefb;"&gt;경성 산전령태랑(山田鈴太郎)&lt;/span&gt;
+
+[[분류:신축공사개요]]</text>
+      <sha1>4nm00f191q1wakdnh286cw04y8phf3p</sha1>
+    </revision>
+  </page>
+</mediawiki>
